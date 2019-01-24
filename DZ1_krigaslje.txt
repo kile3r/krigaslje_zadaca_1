@@ -1,0 +1,1534 @@
+Nepravilan zapis u datoteci senzora: Alojzija Stepinca;15;100;0
+Nepravilan zapis u datoteci spremnika: bio;0;1;1;1;1;120
+***generiranje otpada***Pavlinska***
+Korisnik (1)[1] : Staklo - 2.21, Papir - 4.08, Metal - 1.99, Bio - 6.59, Mješano - 28.83
+Korisnik (2)[1] : Staklo - 3.16, Papir - 2.62, Metal - 0.89, Bio - 3.45, Mješano - 21.41
+Korisnik (3)[1] : Staklo - 0.96, Papir - 2.69, Metal - 1.55, Bio - 6.61, Mješano - 17.49
+Korisnik (4)[1] : Staklo - 1.96, Papir - 3.53, Metal - 0.42, Bio - 6.37, Mješano - 12.9
+Korisnik (5)[1] : Staklo - 1.6, Papir - 0.5, Metal - 0.83, Bio - 5.07, Mješano - 28.69
+Korisnik (6)[1] : Staklo - 3.62, Papir - 3.7, Metal - 1.52, Bio - 1.52, Mješano - 11.59
+Korisnik (7)[1] : Staklo - 3.38, Papir - 0.98, Metal - 1.78, Bio - 9.2, Mješano - 29.71
+Korisnik (8)[2] : Staklo - 13.16, Papir - 3.13, Metal - 1.56, Bio - 48.17, Mješano - 65.03
+Korisnik (9)[2] : Staklo - 4.03, Papir - 13.34, Metal - 1.96, Bio - 33.12, Mješano - 33.36
+Korisnik (10)[3] : Staklo - 29.84, Papir - 133.4, Metal - 15.91, Bio - 218.9, Mješano - 293.3
+***generiranje otpada***Petra Krešimira IV***
+Korisnik (11)[1] : Staklo - 2.36, Papir - 2.61, Metal - 0.73, Bio - 6.71, Mješano - 3.05
+Korisnik (12)[1] : Staklo - 6.21, Papir - 3.94, Metal - 1.49, Bio - 8.27, Mješano - 27.72
+Korisnik (13)[1] : Staklo - 6.49, Papir - 4.18, Metal - 2.15, Bio - 9.1, Mješano - 21.44
+Korisnik (14)[1] : Staklo - 1.02, Papir - 3.8, Metal - 1.2, Bio - 4.53, Mješano - 10.18
+Korisnik (15)[1] : Staklo - 1.37, Papir - 4.82, Metal - 2.56, Bio - 5.1, Mješano - 14.63
+Korisnik (16)[1] : Staklo - 3.44, Papir - 0.92, Metal - 0.55, Bio - 4.81, Mješano - 20.3
+Korisnik (17)[1] : Staklo - 3.75, Papir - 2.68, Metal - 2.82, Bio - 2.06, Mješano - 19.79
+Korisnik (18)[1] : Staklo - 2.98, Papir - 2.46, Metal - 1.54, Bio - 4.7, Mješano - 24.93
+Korisnik (19)[1] : Staklo - 1.18, Papir - 4.67, Metal - 1.04, Bio - 1.41, Mješano - 5.94
+Korisnik (20)[1] : Staklo - 4.15, Papir - 2.6, Metal - 1.44, Bio - 2.8, Mješano - 26.4
+Korisnik (21)[1] : Staklo - 4.38, Papir - 3.1, Metal - 2.85, Bio - 7.2, Mješano - 10.09
+Korisnik (22)[1] : Staklo - 1.96, Papir - 3.22, Metal - 0.79, Bio - 7.95, Mješano - 14.44
+Korisnik (23)[1] : Staklo - 6.75, Papir - 3.85, Metal - 2.51, Bio - 9.5, Mješano - 3.39
+Korisnik (24)[1] : Staklo - 6.66, Papir - 1.0, Metal - 1.85, Bio - 6.29, Mješano - 19.0
+Korisnik (25)[1] : Staklo - 4.29, Papir - 1.09, Metal - 2.2, Bio - 6.33, Mješano - 24.29
+Korisnik (26)[1] : Staklo - 5.45, Papir - 2.3, Metal - 2.1, Bio - 8.44, Mješano - 24.22
+Korisnik (27)[1] : Staklo - 6.39, Papir - 2.19, Metal - 0.48, Bio - 5.48, Mješano - 3.47
+Korisnik (28)[1] : Staklo - 6.52, Papir - 4.6, Metal - 2.68, Bio - 3.43, Mješano - 19.18
+Korisnik (29)[1] : Staklo - 3.74, Papir - 1.88, Metal - 2.55, Bio - 5.53, Mješano - 6.53
+Korisnik (30)[2] : Staklo - 17.11, Papir - 14.48, Metal - 4.21, Bio - 23.01, Mješano - 60.9
+Korisnik (31)[2] : Staklo - 13.11, Papir - 11.75, Metal - 1.43, Bio - 34.7, Mješano - 90.45
+Korisnik (32)[2] : Staklo - 14.09, Papir - 14.44, Metal - 3.1, Bio - 36.13, Mješano - 24.4
+Korisnik (33)[2] : Staklo - 10.23, Papir - 11.21, Metal - 1.97, Bio - 45.4, Mješano - 41.95
+Korisnik (34)[2] : Staklo - 16.1, Papir - 11.47, Metal - 2.92, Bio - 42.38, Mješano - 33.77
+Korisnik (35)[2] : Staklo - 8.95, Papir - 8.46, Metal - 2.15, Bio - 28.29, Mješano - 34.65
+Korisnik (36)[2] : Staklo - 12.8, Papir - 12.93, Metal - 1.68, Bio - 38.32, Mješano - 31.36
+Korisnik (37)[2] : Staklo - 16.75, Papir - 8.83, Metal - 1.95, Bio - 29.08, Mješano - 97.18
+Korisnik (38)[2] : Staklo - 8.34, Papir - 5.91, Metal - 1.38, Bio - 17.51, Mješano - 24.75
+Korisnik (39)[2] : Staklo - 13.61, Papir - 4.13, Metal - 2.86, Bio - 20.71, Mješano - 45.88
+Korisnik (40)[2] : Staklo - 12.78, Papir - 11.53, Metal - 2.1, Bio - 48.78, Mješano - 47.59
+Korisnik (41)[3] : Staklo - 34.68, Papir - 62.89, Metal - 22.19, Bio - 202.65, Mješano - 265.69
+Korisnik (42)[3] : Staklo - 28.37, Papir - 46.73, Metal - 24.44, Bio - 81.43, Mješano - 291.86
+Korisnik (43)[3] : Staklo - 34.44, Papir - 86.97, Metal - 10.15, Bio - 167.34, Mješano - 217.19
+Korisnik (44)[3] : Staklo - 40.58, Papir - 76.28, Metal - 29.6, Bio - 134.03, Mješano - 135.96
+Korisnik (45)[3] : Staklo - 49.67, Papir - 148.98, Metal - 13.99, Bio - 141.71, Mješano - 274.55
+Korisnik (46)[3] : Staklo - 22.44, Papir - 91.96, Metal - 14.04, Bio - 211.92, Mješano - 236.21
+Korisnik (47)[3] : Staklo - 16.84, Papir - 102.95, Metal - 10.17, Bio - 107.52, Mješano - 102.02
+***generiranje otpada***Slavenska***
+Korisnik (48)[1] : Staklo - 1.96, Papir - 2.7, Metal - 0.75, Bio - 9.48, Mješano - 3.71
+Korisnik (49)[1] : Staklo - 2.55, Papir - 3.66, Metal - 2.64, Bio - 9.05, Mješano - 22.05
+Korisnik (50)[1] : Staklo - 6.55, Papir - 2.58, Metal - 1.34, Bio - 4.17, Mješano - 5.48
+Korisnik (51)[1] : Staklo - 4.46, Papir - 4.43, Metal - 2.05, Bio - 7.66, Mješano - 9.91
+Korisnik (52)[1] : Staklo - 0.82, Papir - 1.27, Metal - 0.95, Bio - 7.62, Mješano - 26.66
+Korisnik (53)[1] : Staklo - 5.5, Papir - 0.81, Metal - 2.05, Bio - 8.69, Mješano - 6.63
+Korisnik (54)[1] : Staklo - 2.14, Papir - 0.64, Metal - 2.78, Bio - 3.12, Mješano - 17.67
+Korisnik (55)[1] : Staklo - 6.71, Papir - 2.04, Metal - 2.65, Bio - 9.75, Mješano - 9.47
+Korisnik (56)[1] : Staklo - 5.22, Papir - 4.74, Metal - 0.85, Bio - 7.41, Mješano - 5.86
+Korisnik (57)[1] : Staklo - 4.32, Papir - 4.78, Metal - 1.23, Bio - 2.63, Mješano - 29.8
+Korisnik (58)[1] : Staklo - 6.45, Papir - 4.17, Metal - 0.62, Bio - 6.98, Mješano - 23.01
+Korisnik (59)[1] : Staklo - 3.23, Papir - 0.51, Metal - 1.54, Bio - 2.9, Mješano - 3.62
+Korisnik (60)[1] : Staklo - 5.25, Papir - 3.97, Metal - 2.28, Bio - 5.84, Mješano - 4.63
+Korisnik (61)[1] : Staklo - 6.42, Papir - 3.68, Metal - 2.47, Bio - 8.5, Mješano - 8.64
+Korisnik (62)[1] : Staklo - 2.36, Papir - 2.76, Metal - 0.66, Bio - 9.86, Mješano - 29.09
+Korisnik (63)[1] : Staklo - 6.34, Papir - 3.53, Metal - 1.56, Bio - 9.42, Mješano - 11.46
+Korisnik (64)[1] : Staklo - 5.32, Papir - 3.65, Metal - 2.22, Bio - 2.35, Mješano - 29.4
+Korisnik (65)[1] : Staklo - 6.26, Papir - 4.88, Metal - 0.74, Bio - 2.23, Mješano - 4.34
+Korisnik (66)[1] : Staklo - 2.0, Papir - 3.12, Metal - 0.71, Bio - 3.06, Mješano - 3.09
+Korisnik (67)[1] : Staklo - 5.95, Papir - 3.45, Metal - 0.86, Bio - 5.27, Mješano - 15.63
+Korisnik (68)[2] : Staklo - 5.54, Papir - 14.41, Metal - 3.72, Bio - 16.88, Mješano - 99.4
+Korisnik (69)[2] : Staklo - 18.85, Papir - 5.24, Metal - 2.79, Bio - 25.66, Mješano - 73.98
+Korisnik (70)[2] : Staklo - 10.77, Papir - 5.1, Metal - 4.83, Bio - 36.42, Mješano - 92.46
+Korisnik (71)[2] : Staklo - 12.05, Papir - 8.53, Metal - 4.4, Bio - 25.79, Mješano - 44.41
+Korisnik (72)[2] : Staklo - 9.65, Papir - 10.05, Metal - 3.36, Bio - 26.92, Mješano - 84.18
+Korisnik (73)[2] : Staklo - 15.2, Papir - 13.29, Metal - 2.71, Bio - 37.93, Mješano - 21.73
+Korisnik (74)[2] : Staklo - 6.97, Papir - 5.02, Metal - 4.34, Bio - 14.76, Mješano - 99.44
+Korisnik (75)[2] : Staklo - 15.98, Papir - 10.33, Metal - 3.17, Bio - 26.3, Mješano - 31.13
+***generiranje otpada***Julija Merlića***
+Korisnik (76)[1] : Staklo - 1.04, Papir - 4.13, Metal - 1.04, Bio - 6.51, Mješano - 5.44
+Korisnik (77)[1] : Staklo - 6.2, Papir - 4.2, Metal - 2.71, Bio - 1.63, Mješano - 22.82
+Korisnik (78)[1] : Staklo - 4.19, Papir - 4.43, Metal - 2.01, Bio - 7.25, Mješano - 21.23
+Korisnik (79)[1] : Staklo - 2.63, Papir - 4.65, Metal - 2.85, Bio - 1.39, Mješano - 25.71
+Korisnik (80)[1] : Staklo - 1.53, Papir - 2.94, Metal - 2.74, Bio - 5.65, Mješano - 15.72
+Korisnik (81)[1] : Staklo - 6.19, Papir - 2.88, Metal - 1.49, Bio - 7.42, Mješano - 15.91
+Korisnik (82)[1] : Staklo - 2.75, Papir - 1.57, Metal - 2.99, Bio - 5.65, Mješano - 10.09
+Korisnik (83)[1] : Staklo - 3.16, Papir - 1.87, Metal - 1.43, Bio - 8.93, Mješano - 8.85
+Korisnik (84)[1] : Staklo - 1.98, Papir - 2.16, Metal - 0.6, Bio - 5.87, Mješano - 15.79
+Korisnik (85)[1] : Staklo - 6.48, Papir - 2.93, Metal - 1.97, Bio - 6.69, Mješano - 14.32
+Korisnik (86)[1] : Staklo - 5.91, Papir - 3.33, Metal - 0.9, Bio - 7.25, Mješano - 14.14
+Korisnik (87)[1] : Staklo - 1.98, Papir - 1.27, Metal - 1.38, Bio - 4.82, Mješano - 24.1
+Korisnik (88)[1] : Staklo - 5.92, Papir - 2.3, Metal - 1.14, Bio - 8.9, Mješano - 21.75
+Korisnik (89)[1] : Staklo - 2.56, Papir - 4.9, Metal - 2.88, Bio - 5.02, Mješano - 28.83
+Korisnik (90)[2] : Staklo - 6.41, Papir - 5.15, Metal - 1.42, Bio - 15.47, Mješano - 55.0
+Korisnik (91)[2] : Staklo - 13.39, Papir - 5.67, Metal - 2.09, Bio - 17.59, Mješano - 82.38
+Korisnik (92)[2] : Staklo - 19.8, Papir - 7.46, Metal - 2.36, Bio - 17.32, Mješano - 84.02
+Korisnik (93)[2] : Staklo - 9.67, Papir - 8.56, Metal - 4.15, Bio - 43.82, Mješano - 53.51
+Korisnik (94)[2] : Staklo - 15.24, Papir - 10.25, Metal - 3.86, Bio - 32.53, Mješano - 46.24
+Korisnik (95)[2] : Staklo - 5.89, Papir - 8.23, Metal - 3.07, Bio - 38.64, Mješano - 24.05
+Korisnik (96)[3] : Staklo - 47.02, Papir - 75.99, Metal - 18.62, Bio - 173.1, Mješano - 92.46
+Korisnik (97)[3] : Staklo - 39.47, Papir - 78.2, Metal - 20.28, Bio - 198.48, Mješano - 185.27
+Korisnik (98)[3] : Staklo - 27.73, Papir - 106.82, Metal - 16.94, Bio - 155.09, Mješano - 115.45
+Korisnik (99)[3] : Staklo - 42.31, Papir - 137.27, Metal - 27.36, Bio - 224.46, Mješano - 104.3
+Korisnik (100)[3] : Staklo - 34.89, Papir - 126.91, Metal - 24.19, Bio - 244.43, Mješano - 150.06
+Korisnik (101)[3] : Staklo - 25.04, Papir - 123.59, Metal - 13.92, Bio - 174.44, Mješano - 137.37
+Korisnik (102)[3] : Staklo - 43.9, Papir - 134.48, Metal - 12.2, Bio - 162.24, Mješano - 199.49
+Korisnik (103)[3] : Staklo - 25.75, Papir - 147.98, Metal - 11.44, Bio - 118.25, Mješano - 289.57
+Korisnik (104)[3] : Staklo - 35.23, Papir - 68.74, Metal - 19.67, Bio - 85.82, Mješano - 244.57
+Korisnik (105)[3] : Staklo - 26.13, Papir - 87.4, Metal - 18.1, Bio - 104.88, Mješano - 175.49
+Korisnik (106)[3] : Staklo - 41.55, Papir - 99.74, Metal - 28.87, Bio - 197.78, Mješano - 188.35
+Korisnik (107)[3] : Staklo - 30.3, Papir - 99.84, Metal - 27.51, Bio - 182.61, Mješano - 236.72
+***generiranje otpada***Petra Preradovića***
+Korisnik (108)[1] : Staklo - 5.72, Papir - 1.12, Metal - 0.41, Bio - 2.16, Mješano - 10.72
+Korisnik (109)[1] : Staklo - 1.01, Papir - 3.28, Metal - 2.9, Bio - 9.3, Mješano - 24.84
+Korisnik (110)[1] : Staklo - 6.0, Papir - 4.28, Metal - 2.85, Bio - 5.41, Mješano - 14.09
+Korisnik (111)[1] : Staklo - 1.96, Papir - 0.79, Metal - 2.07, Bio - 6.52, Mješano - 29.59
+Korisnik (112)[1] : Staklo - 6.76, Papir - 2.88, Metal - 2.61, Bio - 4.12, Mješano - 28.0
+Korisnik (113)[1] : Staklo - 1.34, Papir - 1.26, Metal - 1.02, Bio - 9.28, Mješano - 16.09
+Korisnik (114)[1] : Staklo - 5.59, Papir - 2.18, Metal - 0.46, Bio - 4.81, Mješano - 10.49
+Korisnik (115)[1] : Staklo - 6.46, Papir - 2.22, Metal - 1.82, Bio - 3.69, Mješano - 28.28
+Korisnik (116)[1] : Staklo - 2.68, Papir - 4.51, Metal - 2.51, Bio - 3.25, Mješano - 22.63
+Korisnik (117)[1] : Staklo - 4.0, Papir - 4.96, Metal - 0.91, Bio - 8.01, Mješano - 11.44
+Korisnik (118)[1] : Staklo - 4.42, Papir - 4.92, Metal - 2.66, Bio - 7.08, Mješano - 22.94
+Korisnik (119)[1] : Staklo - 4.31, Papir - 2.95, Metal - 1.8, Bio - 8.22, Mješano - 29.8
+Korisnik (120)[1] : Staklo - 6.47, Papir - 1.98, Metal - 1.53, Bio - 4.69, Mješano - 15.84
+Korisnik (121)[1] : Staklo - 4.99, Papir - 2.31, Metal - 0.86, Bio - 8.53, Mješano - 18.06
+Korisnik (122)[1] : Staklo - 4.59, Papir - 0.83, Metal - 0.59, Bio - 4.39, Mješano - 5.83
+Korisnik (123)[2] : Staklo - 11.47, Papir - 6.49, Metal - 4.59, Bio - 40.39, Mješano - 81.75
+Korisnik (124)[2] : Staklo - 9.92, Papir - 12.53, Metal - 1.14, Bio - 43.02, Mješano - 21.38
+Korisnik (125)[2] : Staklo - 17.61, Papir - 4.36, Metal - 4.02, Bio - 15.11, Mješano - 48.3
+Korisnik (126)[2] : Staklo - 18.4, Papir - 13.68, Metal - 4.3, Bio - 47.46, Mješano - 77.68
+Korisnik (127)[2] : Staklo - 9.76, Papir - 12.92, Metal - 3.73, Bio - 29.54, Mješano - 34.32
+Korisnik (128)[3] : Staklo - 28.72, Papir - 123.56, Metal - 17.75, Bio - 93.02, Mješano - 160.27
+Korisnik (129)[3] : Staklo - 40.08, Papir - 98.37, Metal - 17.0, Bio - 218.53, Mješano - 210.74
+Korisnik (130)[3] : Staklo - 29.74, Papir - 100.66, Metal - 27.33, Bio - 221.82, Mješano - 233.59
+Korisnik (131)[3] : Staklo - 38.29, Papir - 147.82, Metal - 12.53, Bio - 123.67, Mješano - 248.83
+Korisnik (132)[3] : Staklo - 29.3, Papir - 64.54, Metal - 14.11, Bio - 225.78, Mješano - 256.43
+Korisnik (133)[3] : Staklo - 40.57, Papir - 81.98, Metal - 29.6, Bio - 101.78, Mješano - 163.36
+Korisnik (134)[3] : Staklo - 15.55, Papir - 88.12, Metal - 14.87, Bio - 151.15, Mješano - 118.44
+Korisnik (135)[3] : Staklo - 28.32, Papir - 137.97, Metal - 14.11, Bio - 166.99, Mješano - 193.19
+***generiranje otpada***Ivana Kukuljevića Sakcinskog***
+Korisnik (136)[1] : Staklo - 6.68, Papir - 3.49, Metal - 0.72, Bio - 8.71, Mješano - 20.96
+Korisnik (137)[1] : Staklo - 3.41, Papir - 3.57, Metal - 1.92, Bio - 3.3, Mješano - 21.29
+Korisnik (138)[1] : Staklo - 3.16, Papir - 0.92, Metal - 0.61, Bio - 9.38, Mješano - 26.79
+Korisnik (139)[1] : Staklo - 1.9, Papir - 1.49, Metal - 1.88, Bio - 6.87, Mješano - 10.17
+Korisnik (140)[1] : Staklo - 6.23, Papir - 2.5, Metal - 1.85, Bio - 6.85, Mješano - 3.06
+Korisnik (141)[1] : Staklo - 3.27, Papir - 3.45, Metal - 1.6, Bio - 1.05, Mješano - 28.56
+Korisnik (142)[1] : Staklo - 5.23, Papir - 0.75, Metal - 0.71, Bio - 4.46, Mješano - 4.54
+Korisnik (143)[1] : Staklo - 5.95, Papir - 0.83, Metal - 2.52, Bio - 7.49, Mješano - 19.77
+Korisnik (144)[1] : Staklo - 3.94, Papir - 4.95, Metal - 0.36, Bio - 4.63, Mješano - 16.13
+Korisnik (145)[1] : Staklo - 1.09, Papir - 0.51, Metal - 2.2, Bio - 3.13, Mješano - 24.68
+Korisnik (146)[1] : Staklo - 4.72, Papir - 1.24, Metal - 0.35, Bio - 5.89, Mješano - 17.3
+Korisnik (147)[1] : Staklo - 4.37, Papir - 1.54, Metal - 2.78, Bio - 7.2, Mješano - 6.24
+Korisnik (148)[1] : Staklo - 6.78, Papir - 1.05, Metal - 0.84, Bio - 8.95, Mješano - 13.27
+Korisnik (149)[1] : Staklo - 4.92, Papir - 1.43, Metal - 1.08, Bio - 3.72, Mješano - 4.09
+Korisnik (150)[1] : Staklo - 2.95, Papir - 4.22, Metal - 0.96, Bio - 2.85, Mješano - 16.31
+Korisnik (151)[1] : Staklo - 3.47, Papir - 1.47, Metal - 0.74, Bio - 2.41, Mješano - 25.49
+Korisnik (152)[1] : Staklo - 4.74, Papir - 4.94, Metal - 0.71, Bio - 5.71, Mješano - 28.72
+Korisnik (153)[1] : Staklo - 5.15, Papir - 1.12, Metal - 0.63, Bio - 4.11, Mješano - 8.3
+Korisnik (154)[1] : Staklo - 1.86, Papir - 4.54, Metal - 1.43, Bio - 4.49, Mješano - 22.48
+Korisnik (155)[1] : Staklo - 2.44, Papir - 2.51, Metal - 2.92, Bio - 9.6, Mješano - 10.38
+Korisnik (156)[1] : Staklo - 1.74, Papir - 2.18, Metal - 0.51, Bio - 4.84, Mješano - 11.32
+Korisnik (157)[1] : Staklo - 4.84, Papir - 2.7, Metal - 0.84, Bio - 4.28, Mješano - 4.7
+Korisnik (158)[1] : Staklo - 2.75, Papir - 0.67, Metal - 2.63, Bio - 4.48, Mješano - 13.45
+Korisnik (159)[1] : Staklo - 5.27, Papir - 1.64, Metal - 1.42, Bio - 7.1, Mješano - 22.75
+Korisnik (160)[1] : Staklo - 1.26, Papir - 0.53, Metal - 1.08, Bio - 4.61, Mješano - 29.34
+Korisnik (161)[1] : Staklo - 4.2, Papir - 4.25, Metal - 1.93, Bio - 7.24, Mješano - 22.75
+Korisnik (162)[1] : Staklo - 5.81, Papir - 2.67, Metal - 0.72, Bio - 4.31, Mješano - 18.75
+Korisnik (163)[1] : Staklo - 6.9, Papir - 4.25, Metal - 2.79, Bio - 5.32, Mješano - 19.23
+Korisnik (164)[1] : Staklo - 5.1, Papir - 0.85, Metal - 1.19, Bio - 2.66, Mješano - 14.56
+Korisnik (165)[1] : Staklo - 1.54, Papir - 1.89, Metal - 1.75, Bio - 1.95, Mješano - 9.05
+Korisnik (166)[1] : Staklo - 0.8, Papir - 1.57, Metal - 2.62, Bio - 8.12, Mješano - 11.95
+Korisnik (167)[1] : Staklo - 1.3, Papir - 2.42, Metal - 2.65, Bio - 7.2, Mješano - 4.33
+Korisnik (168)[1] : Staklo - 3.02, Papir - 0.61, Metal - 1.73, Bio - 2.52, Mješano - 11.47
+Korisnik (169)[1] : Staklo - 5.6, Papir - 4.05, Metal - 1.55, Bio - 1.26, Mješano - 21.3
+Korisnik (170)[1] : Staklo - 3.23, Papir - 1.65, Metal - 2.89, Bio - 8.88, Mješano - 5.75
+Korisnik (171)[1] : Staklo - 2.27, Papir - 2.34, Metal - 2.77, Bio - 5.63, Mješano - 21.08
+Korisnik (172)[2] : Staklo - 16.1, Papir - 11.05, Metal - 1.66, Bio - 38.26, Mješano - 31.49
+Korisnik (173)[2] : Staklo - 17.12, Papir - 7.14, Metal - 3.39, Bio - 18.34, Mješano - 29.98
+Korisnik (174)[2] : Staklo - 18.31, Papir - 14.4, Metal - 2.21, Bio - 45.58, Mješano - 88.15
+Korisnik (175)[2] : Staklo - 19.46, Papir - 7.97, Metal - 1.17, Bio - 12.26, Mješano - 61.04
+Korisnik (176)[2] : Staklo - 9.36, Papir - 12.67, Metal - 1.57, Bio - 42.78, Mješano - 68.83
+Korisnik (177)[2] : Staklo - 10.94, Papir - 6.5, Metal - 4.89, Bio - 26.72, Mješano - 66.58
+Korisnik (178)[2] : Staklo - 19.46, Papir - 9.43, Metal - 3.27, Bio - 46.67, Mješano - 45.14
+Korisnik (179)[2] : Staklo - 16.65, Papir - 9.44, Metal - 4.68, Bio - 35.01, Mješano - 79.19
+Korisnik (180)[2] : Staklo - 12.26, Papir - 4.14, Metal - 4.99, Bio - 23.87, Mješano - 44.24
+Korisnik (181)[2] : Staklo - 17.09, Papir - 7.49, Metal - 1.83, Bio - 49.37, Mješano - 78.05
+Korisnik (182)[2] : Staklo - 6.18, Papir - 9.5, Metal - 2.96, Bio - 24.14, Mješano - 43.77
+Korisnik (183)[2] : Staklo - 10.87, Papir - 8.63, Metal - 3.54, Bio - 39.07, Mješano - 90.54
+Korisnik (184)[3] : Staklo - 34.53, Papir - 60.83, Metal - 12.51, Bio - 201.97, Mješano - 113.74
+Korisnik (185)[3] : Staklo - 36.68, Papir - 130.56, Metal - 11.87, Bio - 241.04, Mješano - 141.61
+Korisnik (186)[3] : Staklo - 43.81, Papir - 148.69, Metal - 22.34, Bio - 233.04, Mješano - 100.86
+Korisnik (187)[3] : Staklo - 19.39, Papir - 131.55, Metal - 28.72, Bio - 98.38, Mješano - 128.06
+Korisnik (188)[3] : Staklo - 36.55, Papir - 91.95, Metal - 16.3, Bio - 85.14, Mješano - 290.5
+Korisnik (189)[3] : Staklo - 41.3, Papir - 120.55, Metal - 24.06, Bio - 222.28, Mješano - 293.99
+Korisnik (190)[3] : Staklo - 22.59, Papir - 65.68, Metal - 28.23, Bio - 211.37, Mješano - 137.5
+Korisnik (191)[3] : Staklo - 38.77, Papir - 133.8, Metal - 20.68, Bio - 191.46, Mješano - 150.49
+Korisnik (192)[3] : Staklo - 28.86, Papir - 108.13, Metal - 10.53, Bio - 195.05, Mješano - 290.1
+Korisnik (193)[3] : Staklo - 39.1, Papir - 126.79, Metal - 15.91, Bio - 141.87, Mješano - 166.83
+Korisnik (194)[3] : Staklo - 25.61, Papir - 134.3, Metal - 11.35, Bio - 217.35, Mješano - 188.69
+Korisnik (195)[3] : Staklo - 41.97, Papir - 67.47, Metal - 26.96, Bio - 137.45, Mješano - 280.57
+***odlaganje otpada***Pavlinska***
+Korisnik (1) je u spremnik staklo (1000) bacio 2.21kg otpada
+Korisnik (1) je u spremnik papir (1004) bacio 4.08kg otpada
+Korisnik (1) je u spremnik metal (1008) bacio 1.99kg otpada
+Korisnik (1) je u spremnik mješano (1011) bacio 28.83kg otpada
+Korisnik (2) je u spremnik staklo (1000) bacio 3.16kg otpada
+Korisnik (2) je u spremnik papir (1004) bacio 2.62kg otpada
+Korisnik (2) je u spremnik metal (1008) bacio 0.89kg otpada
+Korisnik (2) je u spremnik mješano (1012) bacio 21.41kg otpada
+Korisnik (3) je u spremnik staklo (1000) bacio 0.96kg otpada
+Korisnik (3) je u spremnik papir (1004) bacio 2.69kg otpada
+Korisnik (3) je u spremnik metal (1008) bacio 1.55kg otpada
+Korisnik (3) je u spremnik mješano (1013) bacio 17.49kg otpada
+Korisnik (4) je u spremnik staklo (1000) bacio 1.96kg otpada
+Korisnik (4) je u spremnik papir (1004) bacio 3.53kg otpada
+Korisnik (4) je u spremnik metal (1008) bacio 0.42kg otpada
+Korisnik (4) je u spremnik mješano (1014) bacio 12.9kg otpada
+Korisnik (5) je u spremnik staklo (1000) bacio 1.6kg otpada
+Korisnik (5) je u spremnik papir (1004) bacio 0.5kg otpada
+Korisnik (5) je u spremnik metal (1008) bacio 0.83kg otpada
+Korisnik (5) je u spremnik mješano (1015) bacio 28.69kg otpada
+Korisnik (6) je u spremnik staklo (1000) bacio 3.62kg otpada
+Korisnik (6) je u spremnik papir (1005) bacio 3.7kg otpada
+Korisnik (6) je u spremnik metal (1008) bacio 1.52kg otpada
+Korisnik (6) je u spremnik mješano (1016) bacio 11.59kg otpada
+Korisnik (7) je u spremnik staklo (1000) bacio 3.38kg otpada
+Korisnik (7) je u spremnik papir (1005) bacio 0.98kg otpada
+Korisnik (7) je u spremnik metal (1008) bacio 1.78kg otpada
+Korisnik (7) je u spremnik mješano (1017) bacio 29.71kg otpada
+Korisnik (8) je u spremnik staklo (1001) bacio 13.16kg otpada
+Korisnik (8) je u spremnik papir (1006) bacio 3.13kg otpada
+Korisnik (8) je u spremnik metal (1009) bacio 1.56kg otpada
+Korisnik (8) je u spremnik mješano (1018) bacio 65.03kg otpada
+Korisnik (9) je u spremnik staklo (1002) bacio 4.03kg otpada
+Korisnik (9) je u spremnik papir (1006) bacio 13.34kg otpada
+Korisnik (9) je u spremnik metal (1009) bacio 1.96kg otpada
+Korisnik (9) je u spremnik mješano (1018) bacio 33.36kg otpada
+Korisnik (10) je u spremnik staklo (1003) bacio 29.84kg otpada
+Korisnik (10) je u spremnik papir (1007) bacio 133.4kg otpada
+Korisnik (10) je u spremnik metal (1010) bacio 15.91kg otpada
+Korisnik (10) je u spremnik mješano (1019) bacio 293.3kg otpada
+
+Otpad u ulici Pavlinska
+
+Staklo: 63.92
+Papir: 167.97
+Metal: 28.41
+Bio: 0.0
+Mješano: 542.31
+
+
+
+***odlaganje otpada***Petra Krešimira IV***
+Korisnik (11) je u spremnik staklo (1020) bacio 2.36kg otpada
+Korisnik (11) je u spremnik papir (1040) bacio 2.61kg otpada
+Korisnik (11) je u spremnik metal (1057) bacio 0.73kg otpada
+Korisnik (11) je u spremnik mješano (1065) bacio 3.05kg otpada
+Korisnik (12) je u spremnik staklo (1020) bacio 6.21kg otpada
+Korisnik (12) je u spremnik papir (1040) bacio 3.94kg otpada
+Korisnik (12) je u spremnik metal (1057) bacio 1.49kg otpada
+Korisnik (12) je u spremnik mješano (1066) bacio 27.72kg otpada
+Korisnik (13) je u spremnik staklo (1020) bacio 6.49kg otpada
+Korisnik (13) je u spremnik papir (1040) bacio 4.18kg otpada
+Korisnik (13) je u spremnik metal (1057) bacio 2.15kg otpada
+Korisnik (13) je u spremnik mješano (1067) bacio 21.44kg otpada
+Korisnik (14) je u spremnik staklo (1020) bacio 1.02kg otpada
+Korisnik (14) je u spremnik papir (1040) bacio 3.8kg otpada
+Korisnik (14) je u spremnik metal (1057) bacio 1.2kg otpada
+Korisnik (14) je u spremnik mješano (1068) bacio 10.18kg otpada
+Korisnik (15) je u spremnik staklo (1020) bacio 1.37kg otpada
+Korisnik (15) je u spremnik papir (1040) bacio 4.82kg otpada
+Korisnik (15) je u spremnik metal (1057) bacio 2.56kg otpada
+Korisnik (15) je u spremnik mješano (1069) bacio 14.63kg otpada
+Korisnik (16) je u spremnik staklo (1020) bacio 3.44kg otpada
+Korisnik (16) je u spremnik papir (1041) bacio 0.92kg otpada
+Korisnik (16) je u spremnik metal (1057) bacio 0.55kg otpada
+Korisnik (16) je u spremnik mješano (1070) bacio 20.3kg otpada
+Korisnik (17) je u spremnik staklo (1020) bacio 3.75kg otpada
+Korisnik (17) je u spremnik papir (1041) bacio 2.68kg otpada
+Korisnik (17) je u spremnik metal (1057) bacio 2.82kg otpada
+Korisnik (17) je u spremnik mješano (1071) bacio 19.79kg otpada
+Korisnik (18) je u spremnik staklo (1020) bacio 2.98kg otpada
+Korisnik (18) je u spremnik papir (1041) bacio 2.46kg otpada
+Korisnik (18) je u spremnik metal (1057) bacio 1.54kg otpada
+Korisnik (18) je u spremnik mješano (1072) bacio 24.93kg otpada
+Korisnik (19) je u spremnik staklo (1020) bacio 1.18kg otpada
+Korisnik (19) je u spremnik papir (1041) bacio 4.67kg otpada
+Korisnik (19) je u spremnik metal (1057) bacio 1.04kg otpada
+Korisnik (19) je u spremnik mješano (1073) bacio 5.94kg otpada
+Korisnik (20) je u spremnik staklo (1020) bacio 4.15kg otpada
+Korisnik (20) je u spremnik papir (1041) bacio 2.6kg otpada
+Korisnik (20) je u spremnik metal (1057) bacio 1.44kg otpada
+Korisnik (20) je u spremnik mješano (1074) bacio 26.4kg otpada
+Korisnik (21) je u spremnik staklo (1021) bacio 4.38kg otpada
+Korisnik (21) je u spremnik papir (1042) bacio 3.1kg otpada
+Korisnik (21) je u spremnik metal (1058) bacio 2.85kg otpada
+Korisnik (21) je u spremnik mješano (1075) bacio 10.09kg otpada
+Korisnik (22) je u spremnik staklo (1021) bacio 1.96kg otpada
+Korisnik (22) je u spremnik papir (1042) bacio 3.22kg otpada
+Korisnik (22) je u spremnik metal (1058) bacio 0.79kg otpada
+Korisnik (22) je u spremnik mješano (1076) bacio 14.44kg otpada
+Korisnik (23) je u spremnik staklo (1021) bacio 6.75kg otpada
+Korisnik (23) je u spremnik papir (1042) bacio 3.85kg otpada
+Korisnik (23) je u spremnik metal (1058) bacio 2.51kg otpada
+Korisnik (23) je u spremnik mješano (1077) bacio 3.39kg otpada
+Korisnik (24) je u spremnik staklo (1021) bacio 6.66kg otpada
+Korisnik (24) je u spremnik papir (1042) bacio 1.0kg otpada
+Korisnik (24) je u spremnik metal (1058) bacio 1.85kg otpada
+Korisnik (24) je u spremnik mješano (1078) bacio 19.0kg otpada
+Korisnik (25) je u spremnik staklo (1021) bacio 4.29kg otpada
+Korisnik (25) je u spremnik papir (1042) bacio 1.09kg otpada
+Korisnik (25) je u spremnik metal (1058) bacio 2.2kg otpada
+Korisnik (25) je u spremnik mješano (1079) bacio 24.29kg otpada
+Korisnik (26) je u spremnik staklo (1021) bacio 5.45kg otpada
+Korisnik (26) je u spremnik papir (1043) bacio 2.3kg otpada
+Korisnik (26) je u spremnik metal (1058) bacio 2.1kg otpada
+Korisnik (26) je u spremnik mješano (1080) bacio 24.22kg otpada
+Korisnik (27) je u spremnik staklo (1021) bacio 6.39kg otpada
+Korisnik (27) je u spremnik papir (1043) bacio 2.19kg otpada
+Korisnik (27) je u spremnik metal (1058) bacio 0.48kg otpada
+Korisnik (27) je u spremnik mješano (1081) bacio 3.47kg otpada
+Korisnik (28) je u spremnik staklo (1021) bacio 6.52kg otpada
+Korisnik (28) je u spremnik papir (1043) bacio 4.6kg otpada
+Korisnik (28) je u spremnik metal (1058) bacio 2.68kg otpada
+Korisnik (28) je u spremnik mješano (1082) bacio 19.18kg otpada
+Korisnik (29) je u spremnik staklo (1021) bacio 3.74kg otpada
+Korisnik (29) je u spremnik papir (1043) bacio 1.88kg otpada
+Korisnik (29) je u spremnik metal (1058) bacio 2.55kg otpada
+Korisnik (29) je u spremnik mješano (1083) bacio 6.53kg otpada
+Korisnik (30) je u spremnik staklo (1022) bacio 17.11kg otpada
+Korisnik (30) je u spremnik papir (1044) bacio 14.48kg otpada
+Korisnik (30) je u spremnik metal (1059) bacio 4.21kg otpada
+Korisnik (30) je u spremnik mješano (1084) bacio 60.9kg otpada
+Korisnik (31) je u spremnik staklo (1023) bacio 13.11kg otpada
+Korisnik (31) je u spremnik papir (1044) bacio 11.75kg otpada
+Korisnik (31) je u spremnik metal (1059) bacio 1.43kg otpada
+Korisnik (31) je u spremnik mješano (1084) bacio 90.45kg otpada
+Korisnik (32) je u spremnik staklo (1024) bacio 14.09kg otpada
+Korisnik (32) je u spremnik papir (1045) bacio 14.44kg otpada
+Korisnik (32) je u spremnik metal (1059) bacio 3.1kg otpada
+Korisnik (32) je u spremnik mješano (1084) bacio 24.4kg otpada
+Korisnik (33) je u spremnik staklo (1025) bacio 10.23kg otpada
+Korisnik (33) je u spremnik papir (1045) bacio 11.21kg otpada
+Korisnik (33) je u spremnik metal (1059) bacio 1.97kg otpada
+Korisnik (33) je u spremnik mješano (1085) bacio 41.95kg otpada
+Korisnik (34) je u spremnik staklo (1026) bacio 16.1kg otpada
+Korisnik (34) je u spremnik papir (1046) bacio 11.47kg otpada
+Korisnik (34) je u spremnik metal (1059) bacio 2.92kg otpada
+Korisnik (34) je u spremnik mješano (1085) bacio 33.77kg otpada
+Korisnik (35) je u spremnik staklo (1027) bacio 8.95kg otpada
+Korisnik (35) je u spremnik papir (1046) bacio 8.46kg otpada
+Korisnik (35) je u spremnik metal (1060) bacio 2.15kg otpada
+Korisnik (35) je u spremnik mješano (1085) bacio 34.65kg otpada
+Korisnik (36) je u spremnik staklo (1028) bacio 12.8kg otpada
+Korisnik (36) je u spremnik papir (1047) bacio 12.93kg otpada
+Korisnik (36) je u spremnik metal (1060) bacio 1.68kg otpada
+Korisnik (36) je u spremnik mješano (1086) bacio 31.36kg otpada
+Korisnik (37) je u spremnik staklo (1029) bacio 16.75kg otpada
+Korisnik (37) je u spremnik papir (1047) bacio 8.83kg otpada
+Korisnik (37) je u spremnik metal (1060) bacio 1.95kg otpada
+Korisnik (37) je u spremnik mješano (1086) bacio 97.18kg otpada
+Korisnik (38) je u spremnik staklo (1030) bacio 8.34kg otpada
+Korisnik (38) je u spremnik papir (1048) bacio 5.91kg otpada
+Korisnik (38) je u spremnik metal (1060) bacio 1.38kg otpada
+Korisnik (38) je u spremnik mješano (1086) bacio 24.75kg otpada
+Korisnik (39) je u spremnik staklo (1031) bacio 13.61kg otpada
+Korisnik (39) je u spremnik papir (1048) bacio 4.13kg otpada
+Korisnik (39) je u spremnik metal (1060) bacio 2.86kg otpada
+Korisnik (39) je u spremnik mješano (1087) bacio 45.88kg otpada
+Korisnik (40) je u spremnik staklo (1032) bacio 12.78kg otpada
+Korisnik (40) je u spremnik papir (1049) bacio 11.53kg otpada
+Korisnik (40) je u spremnik metal (1061) bacio 2.1kg otpada
+Korisnik (40) je u spremnik mješano (1087) bacio 47.59kg otpada
+Korisnik (41) je u spremnik staklo (1033) bacio 34.68kg otpada
+Korisnik (41) je u spremnik papir (1050) bacio 62.89kg otpada
+Korisnik (41) je u spremnik metal (1062) bacio 22.19kg otpada
+Korisnik (41) je u spremnik mješano (1088) bacio 265.69kg otpada
+Korisnik (42) je u spremnik staklo (1034) bacio 28.37kg otpada
+Korisnik (42) je u spremnik papir (1051) bacio 46.73kg otpada
+Korisnik (42) je u spremnik metal (1062) bacio 24.44kg otpada
+Korisnik (42) je u spremnik mješano (1089) bacio 291.86kg otpada
+Korisnik (43) je u spremnik staklo (1035) bacio 34.44kg otpada
+Korisnik (43) je u spremnik papir (1052) bacio 86.97kg otpada
+Korisnik (43) je u spremnik metal (1062) bacio 10.15kg otpada
+Korisnik (43) je u spremnik mješano (1090) bacio 217.19kg otpada
+Korisnik (44) je u spremnik staklo (1036) bacio 40.58kg otpada
+Korisnik (44) je u spremnik papir (1053) bacio 76.28kg otpada
+Korisnik (44) je u spremnik metal (1063) bacio 29.6kg otpada
+Korisnik (44) je u spremnik mješano (1091) bacio 135.96kg otpada
+Korisnik (45) je u spremnik staklo (1037) bacio 49.67kg otpada
+Korisnik (45) je u spremnik papir (1054) bacio 148.98kg otpada
+Korisnik (45) je u spremnik metal (1063) bacio 13.99kg otpada
+Korisnik (45) je u spremnik mješano (1092) bacio 274.55kg otpada
+Korisnik (46) je u spremnik staklo (1038) bacio 22.44kg otpada
+Korisnik (46) je u spremnik papir (1055) bacio 91.96kg otpada
+Korisnik (46) je u spremnik metal (1063) bacio 14.04kg otpada
+Korisnik (46) je u spremnik mješano (1093) bacio 236.21kg otpada
+Korisnik (47) je u spremnik staklo (1039) bacio 16.84kg otpada
+Korisnik (47) je u spremnik papir (1056) bacio 102.95kg otpada
+Korisnik (47) je u spremnik metal (1064) bacio 10.17kg otpada
+Korisnik (47) je u spremnik mješano (1094) bacio 102.02kg otpada
+
+Otpad u ulici Petra Krešimira IV
+
+Staklo: 449.98
+Papir: 787.81
+Metal: 183.86
+Bio: 0.0
+Mješano: 2355.35
+
+
+
+***odlaganje otpada***Slavenska***
+Korisnik (48) je u spremnik staklo (1095) bacio 1.96kg otpada
+Korisnik (48) je u spremnik papir (1105) bacio 2.7kg otpada
+Korisnik (48) je u spremnik metal (1113) bacio 0.75kg otpada
+Korisnik (48) je u spremnik mješano (1117) bacio 3.71kg otpada
+Korisnik (49) je u spremnik staklo (1095) bacio 2.55kg otpada
+Korisnik (49) je u spremnik papir (1105) bacio 3.66kg otpada
+Korisnik (49) je u spremnik metal (1113) bacio 2.64kg otpada
+Korisnik (49) je u spremnik mješano (1118) bacio 22.05kg otpada
+Korisnik (50) je u spremnik staklo (1095) bacio 6.55kg otpada
+Korisnik (50) je u spremnik papir (1105) bacio 2.58kg otpada
+Korisnik (50) je u spremnik metal (1113) bacio 1.34kg otpada
+Korisnik (50) je u spremnik mješano (1119) bacio 5.48kg otpada
+Korisnik (51) je u spremnik staklo (1095) bacio 4.46kg otpada
+Korisnik (51) je u spremnik papir (1105) bacio 4.43kg otpada
+Korisnik (51) je u spremnik metal (1113) bacio 2.05kg otpada
+Korisnik (51) je u spremnik mješano (1120) bacio 9.91kg otpada
+Korisnik (52) je u spremnik staklo (1095) bacio 0.82kg otpada
+Korisnik (52) je u spremnik papir (1105) bacio 1.27kg otpada
+Korisnik (52) je u spremnik metal (1113) bacio 0.95kg otpada
+Korisnik (52) je u spremnik mješano (1121) bacio 26.66kg otpada
+Korisnik (53) je u spremnik staklo (1095) bacio 5.5kg otpada
+Korisnik (53) je u spremnik papir (1106) bacio 0.81kg otpada
+Korisnik (53) je u spremnik metal (1113) bacio 2.05kg otpada
+Korisnik (53) je u spremnik mješano (1122) bacio 6.63kg otpada
+Korisnik (54) je u spremnik staklo (1095) bacio 2.14kg otpada
+Korisnik (54) je u spremnik papir (1106) bacio 0.64kg otpada
+Korisnik (54) je u spremnik metal (1113) bacio 2.78kg otpada
+Korisnik (54) je u spremnik mješano (1123) bacio 17.67kg otpada
+Korisnik (55) je u spremnik staklo (1095) bacio 6.71kg otpada
+Korisnik (55) je u spremnik papir (1106) bacio 2.04kg otpada
+Korisnik (55) je u spremnik metal (1113) bacio 2.65kg otpada
+Korisnik (55) je u spremnik mješano (1124) bacio 9.47kg otpada
+Korisnik (56) je u spremnik staklo (1095) bacio 5.22kg otpada
+Korisnik (56) je u spremnik papir (1106) bacio 4.74kg otpada
+Korisnik (56) je u spremnik metal (1113) bacio 0.85kg otpada
+Korisnik (56) je u spremnik mješano (1125) bacio 5.86kg otpada
+Korisnik (57) je u spremnik staklo (1095) bacio 4.32kg otpada
+Korisnik (57) je u spremnik papir (1106) bacio 4.78kg otpada
+Korisnik (57) je u spremnik metal (1113) bacio 1.23kg otpada
+Korisnik (57) je u spremnik mješano (1126) bacio 29.8kg otpada
+Korisnik (58) je u spremnik staklo (1096) bacio 6.45kg otpada
+Korisnik (58) je u spremnik papir (1107) bacio 4.17kg otpada
+Korisnik (58) je u spremnik metal (1114) bacio 0.62kg otpada
+Korisnik (58) je u spremnik mješano (1127) bacio 23.01kg otpada
+Korisnik (59) je u spremnik staklo (1096) bacio 3.23kg otpada
+Korisnik (59) je u spremnik papir (1107) bacio 0.51kg otpada
+Korisnik (59) je u spremnik metal (1114) bacio 1.54kg otpada
+Korisnik (59) je u spremnik mješano (1128) bacio 3.62kg otpada
+Korisnik (60) je u spremnik staklo (1096) bacio 5.25kg otpada
+Korisnik (60) je u spremnik papir (1107) bacio 3.97kg otpada
+Korisnik (60) je u spremnik metal (1114) bacio 2.28kg otpada
+Korisnik (60) je u spremnik mješano (1129) bacio 4.63kg otpada
+Korisnik (61) je u spremnik staklo (1096) bacio 6.42kg otpada
+Korisnik (61) je u spremnik papir (1107) bacio 3.68kg otpada
+Korisnik (61) je u spremnik metal (1114) bacio 2.47kg otpada
+Korisnik (61) je u spremnik mješano (1130) bacio 8.64kg otpada
+Korisnik (62) je u spremnik staklo (1096) bacio 2.36kg otpada
+Korisnik (62) je u spremnik papir (1107) bacio 2.76kg otpada
+Korisnik (62) je u spremnik metal (1114) bacio 0.66kg otpada
+Korisnik (62) je u spremnik mješano (1131) bacio 29.09kg otpada
+Korisnik (63) je u spremnik staklo (1096) bacio 6.34kg otpada
+Korisnik (63) je u spremnik papir (1108) bacio 3.53kg otpada
+Korisnik (63) je u spremnik metal (1114) bacio 1.56kg otpada
+Korisnik (63) je u spremnik mješano (1132) bacio 11.46kg otpada
+Korisnik (64) je u spremnik staklo (1096) bacio 5.32kg otpada
+Korisnik (64) je u spremnik papir (1108) bacio 3.65kg otpada
+Korisnik (64) je u spremnik metal (1114) bacio 2.22kg otpada
+Korisnik (64) je u spremnik mješano (1133) bacio 29.4kg otpada
+Korisnik (65) je u spremnik staklo (1096) bacio 6.26kg otpada
+Korisnik (65) je u spremnik papir (1108) bacio 4.88kg otpada
+Korisnik (65) je u spremnik metal (1114) bacio 0.74kg otpada
+Korisnik (65) je u spremnik mješano (1134) bacio 4.34kg otpada
+Korisnik (66) je u spremnik staklo (1096) bacio 2.0kg otpada
+Korisnik (66) je u spremnik papir (1108) bacio 3.12kg otpada
+Korisnik (66) je u spremnik metal (1114) bacio 0.71kg otpada
+Korisnik (66) je u spremnik mješano (1135) bacio 3.09kg otpada
+Korisnik (67) je u spremnik staklo (1096) bacio 5.95kg otpada
+Korisnik (67) je u spremnik papir (1108) bacio 3.45kg otpada
+Korisnik (67) je u spremnik metal (1114) bacio 0.86kg otpada
+Korisnik (67) je u spremnik mješano (1136) bacio 15.63kg otpada
+Korisnik (68) je u spremnik staklo (1097) bacio 5.54kg otpada
+Korisnik (68) je u spremnik papir (1109) bacio 14.41kg otpada
+Korisnik (68) je u spremnik metal (1115) bacio 3.72kg otpada
+Korisnik (68) je u spremnik mješano (1137) bacio 99.4kg otpada
+Korisnik (69) je u spremnik staklo (1098) bacio 18.85kg otpada
+Korisnik (69) je u spremnik papir (1109) bacio 5.24kg otpada
+Korisnik (69) je u spremnik metal (1115) bacio 2.79kg otpada
+Korisnik (69) je u spremnik mješano (1137) bacio 73.98kg otpada
+Korisnik (70) je u spremnik staklo (1099) bacio 10.77kg otpada
+Korisnik (70) je u spremnik papir (1110) bacio 5.1kg otpada
+Korisnik (70) je u spremnik metal (1115) bacio 4.83kg otpada
+Korisnik (70) je u spremnik mješano (1137) bacio 92.46kg otpada
+Korisnik (71) je u spremnik staklo (1100) bacio 12.05kg otpada
+Korisnik (71) je u spremnik papir (1110) bacio 8.53kg otpada
+Korisnik (71) je u spremnik metal (1115) bacio 4.4kg otpada
+Korisnik (71) je u spremnik mješano (1138) bacio 44.41kg otpada
+Korisnik (72) je u spremnik staklo (1101) bacio 9.65kg otpada
+Korisnik (72) je u spremnik papir (1111) bacio 10.05kg otpada
+Korisnik (72) je u spremnik metal (1115) bacio 3.36kg otpada
+Korisnik (72) je u spremnik mješano (1138) bacio 84.18kg otpada
+Korisnik (73) je u spremnik staklo (1102) bacio 15.2kg otpada
+Korisnik (73) je u spremnik papir (1111) bacio 13.29kg otpada
+Korisnik (73) je u spremnik metal (1116) bacio 2.71kg otpada
+Korisnik (73) je u spremnik mješano (1138) bacio 21.73kg otpada
+Korisnik (74) je u spremnik staklo (1103) bacio 6.97kg otpada
+Korisnik (74) je u spremnik papir (1112) bacio 5.02kg otpada
+Korisnik (74) je u spremnik metal (1116) bacio 4.34kg otpada
+Korisnik (74) je u spremnik mješano (1139) bacio 99.44kg otpada
+Korisnik (75) je u spremnik staklo (1104) bacio 15.98kg otpada
+Korisnik (75) je u spremnik papir (1112) bacio 10.33kg otpada
+Korisnik (75) je u spremnik metal (1116) bacio 3.17kg otpada
+Korisnik (75) je u spremnik mješano (1139) bacio 31.13kg otpada
+
+Otpad u ulici Slavenska
+
+Staklo: 184.81999
+Papir: 133.34001
+Metal: 60.269997
+Bio: 0.0
+Mješano: 816.88
+
+
+
+***odlaganje otpada***Julija Merlića***
+Korisnik (76) je u spremnik staklo (1140) bacio 1.04kg otpada
+Korisnik (76) je u spremnik papir (1160) bacio 4.13kg otpada
+Korisnik (76) je u spremnik metal (1178) bacio 1.04kg otpada
+Korisnik (76) je u spremnik mješano (1186) bacio 5.44kg otpada
+Korisnik (77) je u spremnik staklo (1140) bacio 6.2kg otpada
+Korisnik (77) je u spremnik papir (1160) bacio 4.2kg otpada
+Korisnik (77) je u spremnik metal (1178) bacio 2.71kg otpada
+Korisnik (77) je u spremnik mješano (1187) bacio 22.82kg otpada
+Korisnik (78) je u spremnik staklo (1140) bacio 4.19kg otpada
+Korisnik (78) je u spremnik papir (1160) bacio 4.43kg otpada
+Korisnik (78) je u spremnik metal (1178) bacio 2.01kg otpada
+Korisnik (78) je u spremnik mješano (1188) bacio 21.23kg otpada
+Korisnik (79) je u spremnik staklo (1140) bacio 2.63kg otpada
+Korisnik (79) je u spremnik papir (1160) bacio 4.65kg otpada
+Korisnik (79) je u spremnik metal (1178) bacio 2.85kg otpada
+Korisnik (79) je u spremnik mješano (1189) bacio 25.71kg otpada
+Korisnik (80) je u spremnik staklo (1140) bacio 1.53kg otpada
+Korisnik (80) je u spremnik papir (1160) bacio 2.94kg otpada
+Korisnik (80) je u spremnik metal (1178) bacio 2.74kg otpada
+Korisnik (80) je u spremnik mješano (1190) bacio 15.72kg otpada
+Korisnik (81) je u spremnik staklo (1140) bacio 6.19kg otpada
+Korisnik (81) je u spremnik papir (1161) bacio 2.88kg otpada
+Korisnik (81) je u spremnik metal (1178) bacio 1.49kg otpada
+Korisnik (81) je u spremnik mješano (1191) bacio 15.91kg otpada
+Korisnik (82) je u spremnik staklo (1140) bacio 2.75kg otpada
+Korisnik (82) je u spremnik papir (1161) bacio 1.57kg otpada
+Korisnik (82) je u spremnik metal (1178) bacio 2.99kg otpada
+Korisnik (82) je u spremnik mješano (1192) bacio 10.09kg otpada
+Korisnik (83) je u spremnik staklo (1140) bacio 3.16kg otpada
+Korisnik (83) je u spremnik papir (1161) bacio 1.87kg otpada
+Korisnik (83) je u spremnik metal (1178) bacio 1.43kg otpada
+Korisnik (83) je u spremnik mješano (1193) bacio 8.85kg otpada
+Korisnik (84) je u spremnik staklo (1140) bacio 1.98kg otpada
+Korisnik (84) je u spremnik papir (1161) bacio 2.16kg otpada
+Korisnik (84) je u spremnik metal (1178) bacio 0.6kg otpada
+Korisnik (84) je u spremnik mješano (1194) bacio 15.79kg otpada
+Korisnik (85) je u spremnik staklo (1140) bacio 6.48kg otpada
+Korisnik (85) je u spremnik papir (1161) bacio 2.93kg otpada
+Korisnik (85) je u spremnik metal (1178) bacio 1.97kg otpada
+Korisnik (85) je u spremnik mješano (1195) bacio 14.32kg otpada
+Korisnik (86) je u spremnik staklo (1141) bacio 5.91kg otpada
+Korisnik (86) je u spremnik papir (1162) bacio 3.33kg otpada
+Korisnik (86) je u spremnik metal (1179) bacio 0.9kg otpada
+Korisnik (86) je u spremnik mješano (1196) bacio 14.14kg otpada
+Korisnik (87) je u spremnik staklo (1141) bacio 1.98kg otpada
+Korisnik (87) je u spremnik papir (1162) bacio 1.27kg otpada
+Korisnik (87) je u spremnik metal (1179) bacio 1.38kg otpada
+Korisnik (87) je u spremnik mješano (1197) bacio 24.1kg otpada
+Korisnik (88) je u spremnik staklo (1141) bacio 5.92kg otpada
+Korisnik (88) je u spremnik papir (1162) bacio 2.3kg otpada
+Korisnik (88) je u spremnik metal (1179) bacio 1.14kg otpada
+Korisnik (88) je u spremnik mješano (1198) bacio 21.75kg otpada
+Korisnik (89) je u spremnik staklo (1141) bacio 2.56kg otpada
+Korisnik (89) je u spremnik papir (1162) bacio 4.9kg otpada
+Korisnik (89) je u spremnik metal (1179) bacio 2.88kg otpada
+Korisnik (89) je u spremnik mješano (1199) bacio 28.83kg otpada
+Korisnik (90) je u spremnik staklo (1142) bacio 6.41kg otpada
+Korisnik (90) je u spremnik papir (1163) bacio 5.15kg otpada
+Korisnik (90) je u spremnik metal (1180) bacio 1.42kg otpada
+Korisnik (90) je u spremnik mješano (1200) bacio 55.0kg otpada
+Korisnik (91) je u spremnik staklo (1143) bacio 13.39kg otpada
+Korisnik (91) je u spremnik papir (1163) bacio 5.67kg otpada
+Korisnik (91) je u spremnik metal (1180) bacio 2.09kg otpada
+Korisnik (91) je u spremnik mješano (1200) bacio 82.38kg otpada
+Korisnik (92) je u spremnik staklo (1144) bacio 19.8kg otpada
+Korisnik (92) je u spremnik papir (1164) bacio 7.46kg otpada
+Korisnik (92) je u spremnik metal (1180) bacio 2.36kg otpada
+Korisnik (92) je u spremnik mješano (1200) bacio 84.02kg otpada
+Korisnik (93) je u spremnik staklo (1145) bacio 9.67kg otpada
+Korisnik (93) je u spremnik papir (1164) bacio 8.56kg otpada
+Korisnik (93) je u spremnik metal (1180) bacio 4.15kg otpada
+Korisnik (93) je u spremnik mješano (1201) bacio 53.51kg otpada
+Korisnik (94) je u spremnik staklo (1146) bacio 15.24kg otpada
+Korisnik (94) je u spremnik papir (1165) bacio 10.25kg otpada
+Korisnik (94) je u spremnik metal (1180) bacio 3.86kg otpada
+Korisnik (94) je u spremnik mješano (1201) bacio 46.24kg otpada
+Korisnik (95) je u spremnik staklo (1147) bacio 5.89kg otpada
+Korisnik (95) je u spremnik papir (1165) bacio 8.23kg otpada
+Korisnik (95) je u spremnik metal (1181) bacio 3.07kg otpada
+Korisnik (95) je u spremnik mješano (1201) bacio 24.05kg otpada
+Korisnik (96) je u spremnik staklo (1148) bacio 47.02kg otpada
+Korisnik (96) je u spremnik papir (1166) bacio 75.99kg otpada
+Korisnik (96) je u spremnik metal (1182) bacio 18.62kg otpada
+Korisnik (96) je u spremnik mješano (1202) bacio 92.46kg otpada
+Korisnik (97) je u spremnik staklo (1149) bacio 39.47kg otpada
+Korisnik (97) je u spremnik papir (1167) bacio 78.2kg otpada
+Korisnik (97) je u spremnik metal (1182) bacio 20.28kg otpada
+Korisnik (97) je u spremnik mješano (1203) bacio 185.27kg otpada
+Korisnik (98) je u spremnik staklo (1150) bacio 27.73kg otpada
+Korisnik (98) je u spremnik papir (1168) bacio 106.82kg otpada
+Korisnik (98) je u spremnik metal (1182) bacio 16.94kg otpada
+Korisnik (98) je u spremnik mješano (1204) bacio 115.45kg otpada
+Korisnik (99) je u spremnik staklo (1151) bacio 42.31kg otpada
+Korisnik (99) je u spremnik papir (1169) bacio 137.27kg otpada
+Korisnik (99) je u spremnik metal (1183) bacio 27.36kg otpada
+Korisnik (99) je u spremnik mješano (1205) bacio 104.3kg otpada
+Korisnik (100) je u spremnik staklo (1152) bacio 34.89kg otpada
+Korisnik (100) je u spremnik papir (1170) bacio 126.91kg otpada
+Korisnik (100) je u spremnik metal (1183) bacio 24.19kg otpada
+Korisnik (100) je u spremnik mješano (1206) bacio 150.06kg otpada
+Korisnik (101) je u spremnik staklo (1153) bacio 25.04kg otpada
+Korisnik (101) je u spremnik papir (1171) bacio 123.59kg otpada
+Korisnik (101) je u spremnik metal (1183) bacio 13.92kg otpada
+Korisnik (101) je u spremnik mješano (1207) bacio 137.37kg otpada
+Korisnik (102) je u spremnik staklo (1154) bacio 43.9kg otpada
+Korisnik (102) je u spremnik papir (1172) bacio 134.48kg otpada
+Korisnik (102) je u spremnik metal (1184) bacio 12.2kg otpada
+Korisnik (102) je u spremnik mješano (1208) bacio 199.49kg otpada
+Korisnik (103) je u spremnik staklo (1155) bacio 25.75kg otpada
+Korisnik (103) je u spremnik papir (1173) bacio 147.98kg otpada
+Korisnik (103) je u spremnik metal (1184) bacio 11.44kg otpada
+Korisnik (103) je u spremnik mješano (1209) bacio 289.57kg otpada
+Korisnik (104) je u spremnik staklo (1156) bacio 35.23kg otpada
+Korisnik (104) je u spremnik papir (1174) bacio 68.74kg otpada
+Korisnik (104) je u spremnik metal (1184) bacio 19.67kg otpada
+Korisnik (104) je u spremnik mješano (1210) bacio 244.57kg otpada
+Korisnik (105) je u spremnik staklo (1157) bacio 26.13kg otpada
+Korisnik (105) je u spremnik papir (1175) bacio 87.4kg otpada
+Korisnik (105) je u spremnik metal (1185) bacio 18.1kg otpada
+Korisnik (105) je u spremnik mješano (1211) bacio 175.49kg otpada
+Korisnik (106) je u spremnik staklo (1158) bacio 41.55kg otpada
+Korisnik (106) je u spremnik papir (1176) bacio 99.74kg otpada
+Korisnik (106) je u spremnik metal (1185) bacio 28.87kg otpada
+Korisnik (106) je u spremnik mješano (1212) bacio 188.35kg otpada
+Korisnik (107) je u spremnik staklo (1159) bacio 30.3kg otpada
+Korisnik (107) je u spremnik papir (1177) bacio 99.84kg otpada
+Korisnik (107) je u spremnik metal (1185) bacio 27.51kg otpada
+Korisnik (107) je u spremnik mješano (1213) bacio 236.72kg otpada
+
+Otpad u ulici Julija Merlića
+
+Staklo: 542.24
+Papir: 1375.8398
+Metal: 282.18002
+Bio: 0.0
+Mješano: 2709.0002
+
+
+
+***odlaganje otpada***Petra Preradovića***
+Korisnik (108) je u spremnik staklo (1214) bacio 5.72kg otpada
+Korisnik (108) je u spremnik papir (1229) bacio 1.12kg otpada
+Korisnik (108) je u spremnik metal (1243) bacio 0.41kg otpada
+Korisnik (108) je u spremnik mješano (1249) bacio 10.72kg otpada
+Korisnik (109) je u spremnik staklo (1214) bacio 1.01kg otpada
+Korisnik (109) je u spremnik papir (1229) bacio 3.28kg otpada
+Korisnik (109) je u spremnik metal (1243) bacio 2.9kg otpada
+Korisnik (109) je u spremnik mješano (1250) bacio 24.84kg otpada
+Korisnik (110) je u spremnik staklo (1214) bacio 6.0kg otpada
+Korisnik (110) je u spremnik papir (1229) bacio 4.28kg otpada
+Korisnik (110) je u spremnik metal (1243) bacio 2.85kg otpada
+Korisnik (110) je u spremnik mješano (1251) bacio 14.09kg otpada
+Korisnik (111) je u spremnik staklo (1214) bacio 1.96kg otpada
+Korisnik (111) je u spremnik papir (1229) bacio 0.79kg otpada
+Korisnik (111) je u spremnik metal (1243) bacio 2.07kg otpada
+Korisnik (111) je u spremnik mješano (1252) bacio 29.59kg otpada
+Korisnik (112) je u spremnik staklo (1214) bacio 6.76kg otpada
+Korisnik (112) je u spremnik papir (1229) bacio 2.88kg otpada
+Korisnik (112) je u spremnik metal (1243) bacio 2.61kg otpada
+Korisnik (112) je u spremnik mješano (1253) bacio 28.0kg otpada
+Korisnik (113) je u spremnik staklo (1214) bacio 1.34kg otpada
+Korisnik (113) je u spremnik papir (1230) bacio 1.26kg otpada
+Korisnik (113) je u spremnik metal (1243) bacio 1.02kg otpada
+Korisnik (113) je u spremnik mješano (1254) bacio 16.09kg otpada
+Korisnik (114) je u spremnik staklo (1214) bacio 5.59kg otpada
+Korisnik (114) je u spremnik papir (1230) bacio 2.18kg otpada
+Korisnik (114) je u spremnik metal (1243) bacio 0.46kg otpada
+Korisnik (114) je u spremnik mješano (1255) bacio 10.49kg otpada
+Korisnik (115) je u spremnik staklo (1214) bacio 6.46kg otpada
+Korisnik (115) je u spremnik papir (1230) bacio 2.22kg otpada
+Korisnik (115) je u spremnik metal (1243) bacio 1.82kg otpada
+Korisnik (115) je u spremnik mješano (1256) bacio 28.28kg otpada
+Korisnik (116) je u spremnik staklo (1214) bacio 2.68kg otpada
+Korisnik (116) je u spremnik papir (1230) bacio 4.51kg otpada
+Korisnik (116) je u spremnik metal (1243) bacio 2.51kg otpada
+Korisnik (116) je u spremnik mješano (1257) bacio 22.63kg otpada
+Korisnik (117) je u spremnik staklo (1214) bacio 4.0kg otpada
+Korisnik (117) je u spremnik papir (1230) bacio 4.96kg otpada
+Korisnik (117) je u spremnik metal (1243) bacio 0.91kg otpada
+Korisnik (117) je u spremnik mješano (1258) bacio 11.44kg otpada
+Korisnik (118) je u spremnik staklo (1215) bacio 4.42kg otpada
+Korisnik (118) je u spremnik papir (1231) bacio 4.92kg otpada
+Korisnik (118) je u spremnik metal (1244) bacio 2.66kg otpada
+Korisnik (118) je u spremnik mješano (1259) bacio 22.94kg otpada
+Korisnik (119) je u spremnik staklo (1215) bacio 4.31kg otpada
+Korisnik (119) je u spremnik papir (1231) bacio 2.95kg otpada
+Korisnik (119) je u spremnik metal (1244) bacio 1.8kg otpada
+Korisnik (119) je u spremnik mješano (1260) bacio 29.8kg otpada
+Korisnik (120) je u spremnik staklo (1215) bacio 6.47kg otpada
+Korisnik (120) je u spremnik papir (1231) bacio 1.98kg otpada
+Korisnik (120) je u spremnik metal (1244) bacio 1.53kg otpada
+Korisnik (120) je u spremnik mješano (1261) bacio 15.84kg otpada
+Korisnik (121) je u spremnik staklo (1215) bacio 4.99kg otpada
+Korisnik (121) je u spremnik papir (1231) bacio 2.31kg otpada
+Korisnik (121) je u spremnik metal (1244) bacio 0.86kg otpada
+Korisnik (121) je u spremnik mješano (1262) bacio 18.06kg otpada
+Korisnik (122) je u spremnik staklo (1215) bacio 4.59kg otpada
+Korisnik (122) je u spremnik papir (1231) bacio 0.83kg otpada
+Korisnik (122) je u spremnik metal (1244) bacio 0.59kg otpada
+Korisnik (122) je u spremnik mješano (1263) bacio 5.83kg otpada
+Korisnik (123) je u spremnik staklo (1216) bacio 11.47kg otpada
+Korisnik (123) je u spremnik papir (1232) bacio 6.49kg otpada
+Korisnik (123) je u spremnik metal (1245) bacio 4.59kg otpada
+Korisnik (123) je u spremnik mješano (1264) bacio 81.75kg otpada
+Korisnik (124) je u spremnik staklo (1217) bacio 9.92kg otpada
+Korisnik (124) je u spremnik papir (1232) bacio 12.53kg otpada
+Korisnik (124) je u spremnik metal (1245) bacio 1.14kg otpada
+Korisnik (124) je u spremnik mješano (1264) bacio 21.38kg otpada
+Korisnik (125) je u spremnik staklo (1218) bacio 17.61kg otpada
+Korisnik (125) je u spremnik papir (1233) bacio 4.36kg otpada
+Korisnik (125) je u spremnik metal (1245) bacio 4.02kg otpada
+Korisnik (125) je u spremnik mješano (1264) bacio 48.3kg otpada
+Korisnik (126) je u spremnik staklo (1219) bacio 18.4kg otpada
+Korisnik (126) je u spremnik papir (1233) bacio 13.68kg otpada
+Korisnik (126) je u spremnik metal (1245) bacio 4.3kg otpada
+Korisnik (126) je u spremnik mješano (1265) bacio 77.68kg otpada
+Korisnik (127) je u spremnik staklo (1220) bacio 9.76kg otpada
+Korisnik (127) je u spremnik papir (1234) bacio 12.92kg otpada
+Korisnik (127) je u spremnik metal (1245) bacio 3.73kg otpada
+Korisnik (127) je u spremnik mješano (1265) bacio 34.32kg otpada
+Korisnik (128) je u spremnik staklo (1221) bacio 28.72kg otpada
+Korisnik (128) je u spremnik papir (1235) bacio 123.56kg otpada
+Korisnik (128) je u spremnik metal (1246) bacio 17.75kg otpada
+Korisnik (128) je u spremnik mješano (1266) bacio 160.27kg otpada
+Korisnik (129) je u spremnik staklo (1222) bacio 40.08kg otpada
+Korisnik (129) je u spremnik papir (1236) bacio 98.37kg otpada
+Korisnik (129) je u spremnik metal (1246) bacio 17.0kg otpada
+Korisnik (129) je u spremnik mješano (1267) bacio 210.74kg otpada
+Korisnik (130) je u spremnik staklo (1223) bacio 29.74kg otpada
+Korisnik (130) je u spremnik papir (1237) bacio 100.66kg otpada
+Korisnik (130) je u spremnik metal (1246) bacio 27.33kg otpada
+Korisnik (130) je u spremnik mješano (1268) bacio 233.59kg otpada
+Korisnik (131) je u spremnik staklo (1224) bacio 38.29kg otpada
+Korisnik (131) je u spremnik papir (1238) bacio 147.82kg otpada
+Korisnik (131) je u spremnik metal (1247) bacio 12.53kg otpada
+Korisnik (131) je u spremnik mješano (1269) bacio 248.83kg otpada
+Korisnik (132) je u spremnik staklo (1225) bacio 29.3kg otpada
+Korisnik (132) je u spremnik papir (1239) bacio 64.54kg otpada
+Korisnik (132) je u spremnik metal (1247) bacio 14.11kg otpada
+Korisnik (132) je u spremnik mješano (1270) bacio 256.43kg otpada
+Korisnik (133) je u spremnik staklo (1226) bacio 40.57kg otpada
+Korisnik (133) je u spremnik papir (1240) bacio 81.98kg otpada
+Korisnik (133) je u spremnik metal (1247) bacio 29.6kg otpada
+Korisnik (133) je u spremnik mješano (1271) bacio 163.36kg otpada
+Korisnik (134) je u spremnik staklo (1227) bacio 15.55kg otpada
+Korisnik (134) je u spremnik papir (1241) bacio 88.12kg otpada
+Korisnik (134) je u spremnik metal (1248) bacio 14.87kg otpada
+Korisnik (134) je u spremnik mješano (1272) bacio 118.44kg otpada
+Korisnik (135) je u spremnik staklo (1228) bacio 28.32kg otpada
+Korisnik (135) je u spremnik papir (1242) bacio 137.97kg otpada
+Korisnik (135) je u spremnik metal (1248) bacio 14.11kg otpada
+Korisnik (135) je u spremnik mješano (1273) bacio 193.19kg otpada
+
+Otpad u ulici Petra Preradovića
+
+Staklo: 384.03
+Papir: 933.47
+Metal: 190.08
+Bio: 0.0
+Mješano: 2136.92
+
+
+
+***odlaganje otpada***Ivana Kukuljevića Sakcinskog***
+Korisnik (136) je u spremnik staklo (1274) bacio 6.68kg otpada
+Korisnik (136) je u spremnik papir (1302) bacio 3.49kg otpada
+Korisnik (136) je u spremnik metal (1328) bacio 0.72kg otpada
+Korisnik (136) je u spremnik mješano (1339) bacio 20.96kg otpada
+Korisnik (137) je u spremnik staklo (1274) bacio 3.41kg otpada
+Korisnik (137) je u spremnik papir (1302) bacio 3.57kg otpada
+Korisnik (137) je u spremnik metal (1328) bacio 1.92kg otpada
+Korisnik (137) je u spremnik mješano (1340) bacio 21.29kg otpada
+Korisnik (138) je u spremnik staklo (1274) bacio 3.16kg otpada
+Korisnik (138) je u spremnik papir (1302) bacio 0.92kg otpada
+Korisnik (138) je u spremnik metal (1328) bacio 0.61kg otpada
+Korisnik (138) je u spremnik mješano (1341) bacio 26.79kg otpada
+Korisnik (139) je u spremnik staklo (1274) bacio 1.9kg otpada
+Korisnik (139) je u spremnik papir (1302) bacio 1.49kg otpada
+Korisnik (139) je u spremnik metal (1328) bacio 1.88kg otpada
+Korisnik (139) je u spremnik mješano (1342) bacio 10.17kg otpada
+Korisnik (140) je u spremnik staklo (1274) bacio 6.23kg otpada
+Korisnik (140) je u spremnik papir (1302) bacio 2.5kg otpada
+Korisnik (140) je u spremnik metal (1328) bacio 1.85kg otpada
+Korisnik (140) je u spremnik mješano (1343) bacio 3.06kg otpada
+Korisnik (141) je u spremnik staklo (1274) bacio 3.27kg otpada
+Korisnik (141) je u spremnik papir (1303) bacio 3.45kg otpada
+Korisnik (141) je u spremnik metal (1328) bacio 1.6kg otpada
+Korisnik (141) je u spremnik mješano (1344) bacio 28.56kg otpada
+Korisnik (142) je u spremnik staklo (1274) bacio 5.23kg otpada
+Korisnik (142) je u spremnik papir (1303) bacio 0.75kg otpada
+Korisnik (142) je u spremnik metal (1328) bacio 0.71kg otpada
+Korisnik (142) je u spremnik mješano (1345) bacio 4.54kg otpada
+Korisnik (143) je u spremnik staklo (1274) bacio 5.95kg otpada
+Korisnik (143) je u spremnik papir (1303) bacio 0.83kg otpada
+Korisnik (143) je u spremnik metal (1328) bacio 2.52kg otpada
+Korisnik (143) je u spremnik mješano (1346) bacio 19.77kg otpada
+Korisnik (144) je u spremnik staklo (1274) bacio 3.94kg otpada
+Korisnik (144) je u spremnik papir (1303) bacio 4.95kg otpada
+Korisnik (144) je u spremnik metal (1328) bacio 0.36kg otpada
+Korisnik (144) je u spremnik mješano (1347) bacio 16.13kg otpada
+Korisnik (145) je u spremnik staklo (1274) bacio 1.09kg otpada
+Korisnik (145) je u spremnik papir (1303) bacio 0.51kg otpada
+Korisnik (145) je u spremnik metal (1328) bacio 2.2kg otpada
+Korisnik (145) je u spremnik mješano (1348) bacio 24.68kg otpada
+Korisnik (146) je u spremnik staklo (1275) bacio 4.72kg otpada
+Korisnik (146) je u spremnik papir (1304) bacio 1.24kg otpada
+Korisnik (146) je u spremnik metal (1329) bacio 0.35kg otpada
+Korisnik (146) je u spremnik mješano (1349) bacio 17.3kg otpada
+Korisnik (147) je u spremnik staklo (1275) bacio 4.37kg otpada
+Korisnik (147) je u spremnik papir (1304) bacio 1.54kg otpada
+Korisnik (147) je u spremnik metal (1329) bacio 2.78kg otpada
+Korisnik (147) je u spremnik mješano (1350) bacio 6.24kg otpada
+Korisnik (148) je u spremnik staklo (1275) bacio 6.78kg otpada
+Korisnik (148) je u spremnik papir (1304) bacio 1.05kg otpada
+Korisnik (148) je u spremnik metal (1329) bacio 0.84kg otpada
+Korisnik (148) je u spremnik mješano (1351) bacio 13.27kg otpada
+Korisnik (149) je u spremnik staklo (1275) bacio 4.92kg otpada
+Korisnik (149) je u spremnik papir (1304) bacio 1.43kg otpada
+Korisnik (149) je u spremnik metal (1329) bacio 1.08kg otpada
+Korisnik (149) je u spremnik mješano (1352) bacio 4.09kg otpada
+Korisnik (150) je u spremnik staklo (1275) bacio 2.95kg otpada
+Korisnik (150) je u spremnik papir (1304) bacio 4.22kg otpada
+Korisnik (150) je u spremnik metal (1329) bacio 0.96kg otpada
+Korisnik (150) je u spremnik mješano (1353) bacio 16.31kg otpada
+Korisnik (151) je u spremnik staklo (1275) bacio 3.47kg otpada
+Korisnik (151) je u spremnik papir (1305) bacio 1.47kg otpada
+Korisnik (151) je u spremnik metal (1329) bacio 0.74kg otpada
+Korisnik (151) je u spremnik mješano (1354) bacio 25.49kg otpada
+Korisnik (152) je u spremnik staklo (1275) bacio 4.74kg otpada
+Korisnik (152) je u spremnik papir (1305) bacio 4.94kg otpada
+Korisnik (152) je u spremnik metal (1329) bacio 0.71kg otpada
+Korisnik (152) je u spremnik mješano (1355) bacio 28.72kg otpada
+Korisnik (153) je u spremnik staklo (1275) bacio 5.15kg otpada
+Korisnik (153) je u spremnik papir (1305) bacio 1.12kg otpada
+Korisnik (153) je u spremnik metal (1329) bacio 0.63kg otpada
+Korisnik (153) je u spremnik mješano (1356) bacio 8.3kg otpada
+Korisnik (154) je u spremnik staklo (1275) bacio 1.86kg otpada
+Korisnik (154) je u spremnik papir (1305) bacio 4.54kg otpada
+Korisnik (154) je u spremnik metal (1329) bacio 1.43kg otpada
+Korisnik (154) je u spremnik mješano (1357) bacio 22.48kg otpada
+Korisnik (155) je u spremnik staklo (1275) bacio 2.44kg otpada
+Korisnik (155) je u spremnik papir (1305) bacio 2.51kg otpada
+Korisnik (155) je u spremnik metal (1329) bacio 2.92kg otpada
+Korisnik (155) je u spremnik mješano (1358) bacio 10.38kg otpada
+Korisnik (156) je u spremnik staklo (1276) bacio 1.74kg otpada
+Korisnik (156) je u spremnik papir (1306) bacio 2.18kg otpada
+Korisnik (156) je u spremnik metal (1330) bacio 0.51kg otpada
+Korisnik (156) je u spremnik mješano (1359) bacio 11.32kg otpada
+Korisnik (157) je u spremnik staklo (1276) bacio 4.84kg otpada
+Korisnik (157) je u spremnik papir (1306) bacio 2.7kg otpada
+Korisnik (157) je u spremnik metal (1330) bacio 0.84kg otpada
+Korisnik (157) je u spremnik mješano (1360) bacio 4.7kg otpada
+Korisnik (158) je u spremnik staklo (1276) bacio 2.75kg otpada
+Korisnik (158) je u spremnik papir (1306) bacio 0.67kg otpada
+Korisnik (158) je u spremnik metal (1330) bacio 2.63kg otpada
+Korisnik (158) je u spremnik mješano (1361) bacio 13.45kg otpada
+Korisnik (159) je u spremnik staklo (1276) bacio 5.27kg otpada
+Korisnik (159) je u spremnik papir (1306) bacio 1.64kg otpada
+Korisnik (159) je u spremnik metal (1330) bacio 1.42kg otpada
+Korisnik (159) je u spremnik mješano (1362) bacio 22.75kg otpada
+Korisnik (160) je u spremnik staklo (1276) bacio 1.26kg otpada
+Korisnik (160) je u spremnik papir (1306) bacio 0.53kg otpada
+Korisnik (160) je u spremnik metal (1330) bacio 1.08kg otpada
+Korisnik (160) je u spremnik mješano (1363) bacio 29.34kg otpada
+Korisnik (161) je u spremnik staklo (1276) bacio 4.2kg otpada
+Korisnik (161) je u spremnik papir (1307) bacio 4.25kg otpada
+Korisnik (161) je u spremnik metal (1330) bacio 1.93kg otpada
+Korisnik (161) je u spremnik mješano (1364) bacio 22.75kg otpada
+Korisnik (162) je u spremnik staklo (1276) bacio 5.81kg otpada
+Korisnik (162) je u spremnik papir (1307) bacio 2.67kg otpada
+Korisnik (162) je u spremnik metal (1330) bacio 0.72kg otpada
+Korisnik (162) je u spremnik mješano (1365) bacio 18.75kg otpada
+Korisnik (163) je u spremnik staklo (1276) bacio 6.9kg otpada
+Korisnik (163) je u spremnik papir (1307) bacio 4.25kg otpada
+Korisnik (163) je u spremnik metal (1330) bacio 2.79kg otpada
+Korisnik (163) je u spremnik mješano (1366) bacio 19.23kg otpada
+Korisnik (164) je u spremnik staklo (1276) bacio 5.1kg otpada
+Korisnik (164) je u spremnik papir (1307) bacio 0.85kg otpada
+Korisnik (164) je u spremnik metal (1330) bacio 1.19kg otpada
+Korisnik (164) je u spremnik mješano (1367) bacio 14.56kg otpada
+Korisnik (165) je u spremnik staklo (1276) bacio 1.54kg otpada
+Korisnik (165) je u spremnik papir (1307) bacio 1.89kg otpada
+Korisnik (165) je u spremnik metal (1330) bacio 1.75kg otpada
+Korisnik (165) je u spremnik mješano (1368) bacio 9.05kg otpada
+Korisnik (166) je u spremnik staklo (1277) bacio 0.8kg otpada
+Korisnik (166) je u spremnik papir (1308) bacio 1.57kg otpada
+Korisnik (166) je u spremnik metal (1331) bacio 2.62kg otpada
+Korisnik (166) je u spremnik mješano (1369) bacio 11.95kg otpada
+Korisnik (167) je u spremnik staklo (1277) bacio 1.3kg otpada
+Korisnik (167) je u spremnik papir (1308) bacio 2.42kg otpada
+Korisnik (167) je u spremnik metal (1331) bacio 2.65kg otpada
+Korisnik (167) je u spremnik mješano (1370) bacio 4.33kg otpada
+Korisnik (168) je u spremnik staklo (1277) bacio 3.02kg otpada
+Korisnik (168) je u spremnik papir (1308) bacio 0.61kg otpada
+Korisnik (168) je u spremnik metal (1331) bacio 1.73kg otpada
+Korisnik (168) je u spremnik mješano (1371) bacio 11.47kg otpada
+Korisnik (169) je u spremnik staklo (1277) bacio 5.6kg otpada
+Korisnik (169) je u spremnik papir (1308) bacio 4.05kg otpada
+Korisnik (169) je u spremnik metal (1331) bacio 1.55kg otpada
+Korisnik (169) je u spremnik mješano (1372) bacio 21.3kg otpada
+Korisnik (170) je u spremnik staklo (1277) bacio 3.23kg otpada
+Korisnik (170) je u spremnik papir (1308) bacio 1.65kg otpada
+Korisnik (170) je u spremnik metal (1331) bacio 2.89kg otpada
+Korisnik (170) je u spremnik mješano (1373) bacio 5.75kg otpada
+Korisnik (171) je u spremnik staklo (1277) bacio 2.27kg otpada
+Korisnik (171) je u spremnik papir (1309) bacio 2.34kg otpada
+Korisnik (171) je u spremnik metal (1331) bacio 2.77kg otpada
+Korisnik (171) je u spremnik mješano (1374) bacio 21.08kg otpada
+Korisnik (172) je u spremnik staklo (1278) bacio 16.1kg otpada
+Korisnik (172) je u spremnik papir (1310) bacio 11.05kg otpada
+Korisnik (172) je u spremnik metal (1332) bacio 1.66kg otpada
+Korisnik (172) je u spremnik mješano (1375) bacio 31.49kg otpada
+Korisnik (173) je u spremnik staklo (1279) bacio 17.12kg otpada
+Korisnik (173) je u spremnik papir (1310) bacio 7.14kg otpada
+Korisnik (173) je u spremnik metal (1332) bacio 3.39kg otpada
+Korisnik (173) je u spremnik mješano (1375) bacio 29.98kg otpada
+Korisnik (174) je u spremnik staklo (1280) bacio 18.31kg otpada
+Korisnik (174) je u spremnik papir (1311) bacio 14.4kg otpada
+Korisnik (174) je u spremnik metal (1332) bacio 2.21kg otpada
+Korisnik (174) je u spremnik mješano (1375) bacio 88.15kg otpada
+Korisnik (175) je u spremnik staklo (1281) bacio 19.46kg otpada
+Korisnik (175) je u spremnik papir (1311) bacio 7.97kg otpada
+Korisnik (175) je u spremnik metal (1332) bacio 1.17kg otpada
+Korisnik (175) je u spremnik mješano (1376) bacio 61.04kg otpada
+Korisnik (176) je u spremnik staklo (1282) bacio 9.36kg otpada
+Korisnik (176) je u spremnik papir (1312) bacio 12.67kg otpada
+Korisnik (176) je u spremnik metal (1332) bacio 1.57kg otpada
+Korisnik (176) je u spremnik mješano (1376) bacio 68.83kg otpada
+Korisnik (177) je u spremnik staklo (1283) bacio 10.94kg otpada
+Korisnik (177) je u spremnik papir (1312) bacio 6.5kg otpada
+Korisnik (177) je u spremnik metal (1333) bacio 4.89kg otpada
+Korisnik (177) je u spremnik mješano (1376) bacio 66.58kg otpada
+Korisnik (178) je u spremnik staklo (1284) bacio 19.46kg otpada
+Korisnik (178) je u spremnik papir (1313) bacio 9.43kg otpada
+Korisnik (178) je u spremnik metal (1333) bacio 3.27kg otpada
+Korisnik (178) je u spremnik mješano (1377) bacio 45.14kg otpada
+Korisnik (179) je u spremnik staklo (1285) bacio 16.65kg otpada
+Korisnik (179) je u spremnik papir (1313) bacio 9.44kg otpada
+Korisnik (179) je u spremnik metal (1333) bacio 4.68kg otpada
+Korisnik (179) je u spremnik mješano (1377) bacio 79.19kg otpada
+Korisnik (180) je u spremnik staklo (1286) bacio 12.26kg otpada
+Korisnik (180) je u spremnik papir (1314) bacio 4.14kg otpada
+Korisnik (180) je u spremnik metal (1333) bacio 4.99kg otpada
+Korisnik (180) je u spremnik mješano (1377) bacio 44.24kg otpada
+Korisnik (181) je u spremnik staklo (1287) bacio 17.09kg otpada
+Korisnik (181) je u spremnik papir (1314) bacio 7.49kg otpada
+Korisnik (181) je u spremnik metal (1333) bacio 1.83kg otpada
+Korisnik (181) je u spremnik mješano (1378) bacio 78.05kg otpada
+Korisnik (182) je u spremnik staklo (1288) bacio 6.18kg otpada
+Korisnik (182) je u spremnik papir (1315) bacio 9.5kg otpada
+Korisnik (182) je u spremnik metal (1334) bacio 2.96kg otpada
+Korisnik (182) je u spremnik mješano (1378) bacio 43.77kg otpada
+Korisnik (183) je u spremnik staklo (1289) bacio 10.87kg otpada
+Korisnik (183) je u spremnik papir (1315) bacio 8.63kg otpada
+Korisnik (183) je u spremnik metal (1334) bacio 3.54kg otpada
+Korisnik (183) je u spremnik mješano (1378) bacio 90.54kg otpada
+Korisnik (184) je u spremnik staklo (1290) bacio 34.53kg otpada
+Korisnik (184) je u spremnik papir (1316) bacio 60.83kg otpada
+Korisnik (184) je u spremnik metal (1335) bacio 12.51kg otpada
+Korisnik (184) je u spremnik mješano (1379) bacio 113.74kg otpada
+Korisnik (185) je u spremnik staklo (1291) bacio 36.68kg otpada
+Korisnik (185) je u spremnik papir (1317) bacio 130.56kg otpada
+Korisnik (185) je u spremnik metal (1335) bacio 11.87kg otpada
+Korisnik (185) je u spremnik mješano (1380) bacio 141.61kg otpada
+Korisnik (186) je u spremnik staklo (1292) bacio 43.81kg otpada
+Korisnik (186) je u spremnik papir (1318) bacio 148.69kg otpada
+Korisnik (186) je u spremnik metal (1335) bacio 22.34kg otpada
+Korisnik (186) je u spremnik mješano (1381) bacio 100.86kg otpada
+Korisnik (187) je u spremnik staklo (1293) bacio 19.39kg otpada
+Korisnik (187) je u spremnik papir (1319) bacio 131.55kg otpada
+Korisnik (187) je u spremnik metal (1336) bacio 28.72kg otpada
+Korisnik (187) je u spremnik mješano (1382) bacio 128.06kg otpada
+Korisnik (188) je u spremnik staklo (1294) bacio 36.55kg otpada
+Korisnik (188) je u spremnik papir (1320) bacio 91.95kg otpada
+Korisnik (188) je u spremnik metal (1336) bacio 16.3kg otpada
+Korisnik (188) je u spremnik mješano (1383) bacio 290.5kg otpada
+Korisnik (189) je u spremnik staklo (1295) bacio 41.3kg otpada
+Korisnik (189) je u spremnik papir (1321) bacio 120.55kg otpada
+Korisnik (189) je u spremnik metal (1336) bacio 24.06kg otpada
+Korisnik (189) je u spremnik mješano (1384) bacio 293.99kg otpada
+Korisnik (190) je u spremnik staklo (1296) bacio 22.59kg otpada
+Korisnik (190) je u spremnik papir (1322) bacio 65.68kg otpada
+Korisnik (190) je u spremnik metal (1337) bacio 28.23kg otpada
+Korisnik (190) je u spremnik mješano (1385) bacio 137.5kg otpada
+Korisnik (191) je u spremnik staklo (1297) bacio 38.77kg otpada
+Korisnik (191) je u spremnik papir (1323) bacio 133.8kg otpada
+Korisnik (191) je u spremnik metal (1337) bacio 20.68kg otpada
+Korisnik (191) je u spremnik mješano (1386) bacio 150.49kg otpada
+Korisnik (192) je u spremnik staklo (1298) bacio 28.86kg otpada
+Korisnik (192) je u spremnik papir (1324) bacio 108.13kg otpada
+Korisnik (192) je u spremnik metal (1337) bacio 10.53kg otpada
+Korisnik (192) je u spremnik mješano (1387) bacio 290.1kg otpada
+Korisnik (193) je u spremnik staklo (1299) bacio 39.1kg otpada
+Korisnik (193) je u spremnik papir (1325) bacio 126.79kg otpada
+Korisnik (193) je u spremnik metal (1338) bacio 15.91kg otpada
+Korisnik (193) je u spremnik mješano (1388) bacio 166.83kg otpada
+Korisnik (194) je u spremnik staklo (1300) bacio 25.61kg otpada
+Korisnik (194) je u spremnik papir (1326) bacio 134.3kg otpada
+Korisnik (194) je u spremnik metal (1338) bacio 11.35kg otpada
+Korisnik (194) je u spremnik mješano (1389) bacio 188.69kg otpada
+Korisnik (195) je u spremnik staklo (1301) bacio 41.97kg otpada
+Korisnik (195) je u spremnik papir (1327) bacio 67.47kg otpada
+Korisnik (195) je u spremnik metal (1338) bacio 26.96kg otpada
+Korisnik (195) je u spremnik mješano (1390) bacio 280.57kg otpada
+
+Otpad u ulici Ivana Kukuljevića Sakcinskog
+
+Staklo: 720.85
+Papir: 1509.4501
+Metal: 321.5
+Bio: 0.0
+Mješano: 3580.2502
+
+
+
+Vozilo mješanko 3  je preuzelo 28.83kg otpada iz spremnika mješano [1011]. #= 28/3000
+Vozilo staklarko 1 je preuzelo 16.89kg otpada iz spremnika staklo [1000]. #= 16/4000
+Vozilo papirko 1   je preuzelo 13.419999kg otpada iz spremnika papir [1004]. #= 13/3000
+Vozilo metalko 1   je preuzelo 8.9800005kg otpada iz spremnika metal [1008]. #= 8/5000
+Vozilo mješanko 2  je preuzelo 21.41kg otpada iz spremnika mješano [1012]. #= 21/5000
+Vozilo mješanko 1  je preuzelo 17.49kg otpada iz spremnika mješano [1013]. #= 17/4000
+Vozilo mješanko 3  je preuzelo 12.9kg otpada iz spremnika mješano [1014]. #= 40/3000
+Vozilo staklarko 1 je preuzelo 13.16kg otpada iz spremnika staklo [1001]. #= 29/4000
+Vozilo papirko 1   je preuzelo 4.6800003kg otpada iz spremnika papir [1005]. #= 17/3000
+Vozilo metalko 1   je preuzelo 3.52kg otpada iz spremnika metal [1009]. #= 11/5000
+Vozilo mješanko 2  je preuzelo 28.69kg otpada iz spremnika mješano [1015]. #= 49/5000
+Vozilo mješanko 1  je preuzelo 11.59kg otpada iz spremnika mješano [1016]. #= 28/4000
+Vozilo mješanko 3  je preuzelo 29.71kg otpada iz spremnika mješano [1017]. #= 69/3000
+Vozilo staklarko 1 je preuzelo 4.03kg otpada iz spremnika staklo [1002]. #= 33/4000
+Vozilo papirko 1   je preuzelo 16.470001kg otpada iz spremnika papir [1006]. #= 33/3000
+Vozilo metalko 1   je preuzelo 15.91kg otpada iz spremnika metal [1010]. #= 26/5000
+Vozilo mješanko 2  je preuzelo 98.39kg otpada iz spremnika mješano [1018]. #= 147/5000
+Vozilo mješanko 1  je preuzelo 293.3kg otpada iz spremnika mješano [1019]. #= 321/4000
+Vozilo mješanko 3  je preuzelo 3.05kg otpada iz spremnika mješano [1065]. #= 72/3000
+Vozilo staklarko 1 je preuzelo 29.84kg otpada iz spremnika staklo [1003]. #= 62/4000
+Vozilo papirko 1   je preuzelo 133.4kg otpada iz spremnika papir [1007]. #= 166/3000
+Vozilo metalko 1   je preuzelo 15.519999kg otpada iz spremnika metal [1057]. #= 41/5000
+Vozilo mješanko 2  je preuzelo 27.72kg otpada iz spremnika mješano [1066]. #= 174/5000
+Vozilo mješanko 1  je preuzelo 21.44kg otpada iz spremnika mješano [1067]. #= 342/4000
+Vozilo mješanko 3  je preuzelo 10.18kg otpada iz spremnika mješano [1068]. #= 82/3000
+Vozilo staklarko 1 je preuzelo 32.95kg otpada iz spremnika staklo [1020]. #= 94/4000
+Vozilo papirko 1   je preuzelo 19.35kg otpada iz spremnika papir [1040]. #= 185/3000
+Vozilo metalko 1   je preuzelo 18.009998kg otpada iz spremnika metal [1058]. #= 59/5000
+Vozilo mješanko 2  je preuzelo 14.63kg otpada iz spremnika mješano [1069]. #= 188/5000
+Vozilo mješanko 1  je preuzelo 20.3kg otpada iz spremnika mješano [1070]. #= 362/4000
+Vozilo mješanko 3  je preuzelo 19.79kg otpada iz spremnika mješano [1071]. #= 101/3000
+Vozilo staklarko 1 je preuzelo 46.140003kg otpada iz spremnika staklo [1021]. #= 140/4000
+Vozilo papirko 1   je preuzelo 13.33kg otpada iz spremnika papir [1041]. #= 198/3000
+Vozilo metalko 1   je preuzelo 13.63kg otpada iz spremnika metal [1059]. #= 72/5000
+Vozilo mješanko 2  je preuzelo 24.93kg otpada iz spremnika mješano [1072]. #= 212/5000
+Vozilo mješanko 1  je preuzelo 5.94kg otpada iz spremnika mješano [1073]. #= 367/4000
+Vozilo mješanko 3  je preuzelo 26.4kg otpada iz spremnika mješano [1074]. #= 127/3000
+Vozilo staklarko 1 je preuzelo 17.11kg otpada iz spremnika staklo [1022]. #= 157/4000
+Vozilo papirko 1   je preuzelo 12.26kg otpada iz spremnika papir [1042]. #= 210/3000
+Vozilo metalko 1   je preuzelo 10.0199995kg otpada iz spremnika metal [1060]. #= 82/5000
+Vozilo mješanko 2  je preuzelo 10.09kg otpada iz spremnika mješano [1075]. #= 222/5000
+Vozilo mješanko 1  je preuzelo 14.44kg otpada iz spremnika mješano [1076]. #= 381/4000
+Vozilo mješanko 3  je preuzelo 3.39kg otpada iz spremnika mješano [1077]. #= 130/3000
+Vozilo staklarko 1 je preuzelo 13.11kg otpada iz spremnika staklo [1023]. #= 170/4000
+Vozilo papirko 1   je preuzelo 10.97kg otpada iz spremnika papir [1043]. #= 220/3000
+Vozilo metalko 1   je preuzelo 2.1kg otpada iz spremnika metal [1061]. #= 84/5000
+Vozilo mješanko 2  je preuzelo 19.0kg otpada iz spremnika mješano [1078]. #= 241/5000
+Vozilo mješanko 1  je preuzelo 24.29kg otpada iz spremnika mješano [1079]. #= 405/4000
+Vozilo mješanko 3  je preuzelo 24.22kg otpada iz spremnika mješano [1080]. #= 154/3000
+Vozilo staklarko 1 je preuzelo 14.09kg otpada iz spremnika staklo [1024]. #= 184/4000
+Vozilo papirko 1   je preuzelo 26.23kg otpada iz spremnika papir [1044]. #= 246/3000
+Vozilo metalko 1   je preuzelo 56.78kg otpada iz spremnika metal [1062]. #= 140/5000
+Vozilo mješanko 2  je preuzelo 3.47kg otpada iz spremnika mješano [1081]. #= 244/5000
+Vozilo mješanko 1  je preuzelo 19.18kg otpada iz spremnika mješano [1082]. #= 424/4000
+Vozilo mješanko 3  je preuzelo 6.53kg otpada iz spremnika mješano [1083]. #= 160/3000
+Vozilo staklarko 1 je preuzelo 10.23kg otpada iz spremnika staklo [1025]. #= 194/4000
+Vozilo papirko 1   je preuzelo 25.65kg otpada iz spremnika papir [1045]. #= 271/3000
+Vozilo metalko 1   je preuzelo 57.63kg otpada iz spremnika metal [1063]. #= 197/5000
+Vozilo mješanko 2  je preuzelo 175.75kg otpada iz spremnika mješano [1084]. #= 419/5000
+Vozilo mješanko 1  je preuzelo 110.37kg otpada iz spremnika mješano [1085]. #= 534/4000
+Vozilo mješanko 3  je preuzelo 153.29001kg otpada iz spremnika mješano [1086]. #= 313/3000
+Vozilo staklarko 1 je preuzelo 16.1kg otpada iz spremnika staklo [1026]. #= 210/4000
+Vozilo papirko 1   je preuzelo 19.93kg otpada iz spremnika papir [1046]. #= 290/3000
+Vozilo metalko 1   je preuzelo 10.17kg otpada iz spremnika metal [1064]. #= 207/5000
+Vozilo mješanko 2  je preuzelo 93.47kg otpada iz spremnika mješano [1087]. #= 512/5000
+Vozilo mješanko 1  je preuzelo 265.69kg otpada iz spremnika mješano [1088]. #= 799/4000
+Vozilo mješanko 3  je preuzelo 291.86kg otpada iz spremnika mješano [1089]. #= 604/3000
+Vozilo staklarko 1 je preuzelo 8.95kg otpada iz spremnika staklo [1027]. #= 218/4000
+Vozilo papirko 1   je preuzelo 21.76kg otpada iz spremnika papir [1047]. #= 311/3000
+Vozilo metalko 1   je preuzelo 17.289999kg otpada iz spremnika metal [1113]. #= 224/5000
+Vozilo mješanko 2  je preuzelo 217.19kg otpada iz spremnika mješano [1090]. #= 729/5000
+Vozilo mješanko 1  je preuzelo 135.96kg otpada iz spremnika mješano [1091]. #= 934/4000
+Vozilo mješanko 3  je preuzelo 274.55kg otpada iz spremnika mješano [1092]. #= 878/3000
+Vozilo staklarko 1 je preuzelo 12.8kg otpada iz spremnika staklo [1028]. #= 230/4000
+Vozilo papirko 1   je preuzelo 10.04kg otpada iz spremnika papir [1048]. #= 321/3000
+Vozilo metalko 1   je preuzelo 13.659999kg otpada iz spremnika metal [1114]. #= 237/5000
+Vozilo mješanko 2  je preuzelo 236.21kg otpada iz spremnika mješano [1093]. #= 965/5000
+Vozilo mješanko 1  je preuzelo 102.02kg otpada iz spremnika mješano [1094]. #= 1036/4000
+Vozilo mješanko 3  je preuzelo 3.71kg otpada iz spremnika mješano [1117]. #= 881/3000
+Vozilo staklarko 1 je preuzelo 16.75kg otpada iz spremnika staklo [1029]. #= 246/4000
+Vozilo papirko 1   je preuzelo 11.53kg otpada iz spremnika papir [1049]. #= 332/3000
+Vozilo metalko 1   je preuzelo 19.1kg otpada iz spremnika metal [1115]. #= 256/5000
+Vozilo mješanko 2  je preuzelo 22.05kg otpada iz spremnika mješano [1118]. #= 987/5000
+Vozilo mješanko 1  je preuzelo 5.48kg otpada iz spremnika mješano [1119]. #= 1041/4000
+Vozilo mješanko 3  je preuzelo 9.91kg otpada iz spremnika mješano [1120]. #= 890/3000
+Vozilo staklarko 1 je preuzelo 8.34kg otpada iz spremnika staklo [1030]. #= 254/4000
+Vozilo papirko 1   je preuzelo 62.89kg otpada iz spremnika papir [1050]. #= 394/3000
+Vozilo metalko 1   je preuzelo 10.22kg otpada iz spremnika metal [1116]. #= 266/5000
+Vozilo mješanko 2  je preuzelo 26.66kg otpada iz spremnika mješano [1121]. #= 1013/5000
+Vozilo mješanko 1  je preuzelo 6.63kg otpada iz spremnika mješano [1122]. #= 1047/4000
+Vozilo mješanko 3  je preuzelo 17.67kg otpada iz spremnika mješano [1123]. #= 907/3000
+Vozilo staklarko 1 je preuzelo 13.61kg otpada iz spremnika staklo [1031]. #= 267/4000
+Vozilo papirko 1   je preuzelo 46.73kg otpada iz spremnika papir [1051]. #= 440/3000
+Vozilo metalko 1   je preuzelo 19.83kg otpada iz spremnika metal [1178]. #= 285/5000
+Vozilo mješanko 2  je preuzelo 9.47kg otpada iz spremnika mješano [1124]. #= 1022/5000
+Vozilo mješanko 1  je preuzelo 5.86kg otpada iz spremnika mješano [1125]. #= 1052/4000
+Vozilo mješanko 3  je preuzelo 29.8kg otpada iz spremnika mješano [1126]. #= 936/3000
+Vozilo staklarko 1 je preuzelo 12.78kg otpada iz spremnika staklo [1032]. #= 279/4000
+Vozilo papirko 1   je preuzelo 86.97kg otpada iz spremnika papir [1052]. #= 526/3000
+Vozilo metalko 1   je preuzelo 6.3kg otpada iz spremnika metal [1179]. #= 291/5000
+Vozilo mješanko 2  je preuzelo 23.01kg otpada iz spremnika mješano [1127]. #= 1045/5000
+Vozilo mješanko 1  je preuzelo 3.62kg otpada iz spremnika mješano [1128]. #= 1055/4000
+Vozilo mješanko 3  je preuzelo 4.63kg otpada iz spremnika mješano [1129]. #= 940/3000
+Vozilo staklarko 1 je preuzelo 34.68kg otpada iz spremnika staklo [1033]. #= 313/4000
+Vozilo papirko 1   je preuzelo 76.28kg otpada iz spremnika papir [1053]. #= 602/3000
+Vozilo metalko 1   je preuzelo 13.88kg otpada iz spremnika metal [1180]. #= 304/5000
+Vozilo mješanko 2  je preuzelo 8.64kg otpada iz spremnika mješano [1130]. #= 1053/5000
+Vozilo mješanko 1  je preuzelo 29.09kg otpada iz spremnika mješano [1131]. #= 1084/4000
+Vozilo mješanko 3  je preuzelo 11.46kg otpada iz spremnika mješano [1132]. #= 951/3000
+Vozilo staklarko 1 je preuzelo 28.37kg otpada iz spremnika staklo [1034]. #= 341/4000
+Vozilo papirko 1   je preuzelo 148.98kg otpada iz spremnika papir [1054]. #= 750/3000
+Vozilo metalko 1   je preuzelo 3.07kg otpada iz spremnika metal [1181]. #= 307/5000
+Vozilo mješanko 2  je preuzelo 29.4kg otpada iz spremnika mješano [1133]. #= 1082/5000
+Vozilo mješanko 1  je preuzelo 4.34kg otpada iz spremnika mješano [1134]. #= 1088/4000
+Vozilo mješanko 3  je preuzelo 3.09kg otpada iz spremnika mješano [1135]. #= 954/3000
+Vozilo staklarko 1 je preuzelo 34.44kg otpada iz spremnika staklo [1035]. #= 375/4000
+Vozilo papirko 1   je preuzelo 91.96kg otpada iz spremnika papir [1055]. #= 841/3000
+Vozilo metalko 1   je preuzelo 55.840004kg otpada iz spremnika metal [1182]. #= 362/5000
+Vozilo mješanko 2  je preuzelo 15.63kg otpada iz spremnika mješano [1136]. #= 1097/5000
+Vozilo mješanko 1  je preuzelo 265.84kg otpada iz spremnika mješano [1137]. #= 1353/4000
+Vozilo mješanko 3  je preuzelo 150.31999kg otpada iz spremnika mješano [1138]. #= 1104/3000
+Vozilo staklarko 1 je preuzelo 40.58kg otpada iz spremnika staklo [1036]. #= 415/4000
+Vozilo papirko 1   je preuzelo 102.95kg otpada iz spremnika papir [1056]. #= 943/3000
+Vozilo metalko 1   je preuzelo 65.47kg otpada iz spremnika metal [1183]. #= 427/5000
+Vozilo mješanko 2  je preuzelo 130.57kg otpada iz spremnika mješano [1139]. #= 1227/5000
+Vozilo mješanko 1  je preuzelo 5.44kg otpada iz spremnika mješano [1186]. #= 1358/4000
+Vozilo mješanko 3  je preuzelo 22.82kg otpada iz spremnika mješano [1187]. #= 1126/3000
+Vozilo staklarko 1 je preuzelo 49.67kg otpada iz spremnika staklo [1037]. #= 464/4000
+Vozilo papirko 1   je preuzelo 14.640001kg otpada iz spremnika papir [1105]. #= 957/3000
+Vozilo metalko 1   je preuzelo 43.309998kg otpada iz spremnika metal [1184]. #= 470/5000
+Vozilo mješanko 2  je preuzelo 21.23kg otpada iz spremnika mješano [1188]. #= 1248/5000
+Vozilo mješanko 1  je preuzelo 25.71kg otpada iz spremnika mješano [1189]. #= 1383/4000
+Vozilo mješanko 3  je preuzelo 15.72kg otpada iz spremnika mješano [1190]. #= 1141/3000
+Vozilo staklarko 1 je preuzelo 22.44kg otpada iz spremnika staklo [1038]. #= 486/4000
+Vozilo papirko 1   je preuzelo 13.01kg otpada iz spremnika papir [1106]. #= 970/3000
+Vozilo metalko 1   je preuzelo 74.48kg otpada iz spremnika metal [1185]. #= 544/5000
+Vozilo mješanko 2  je preuzelo 15.91kg otpada iz spremnika mješano [1191]. #= 1263/5000
+Vozilo mješanko 1  je preuzelo 10.09kg otpada iz spremnika mješano [1192]. #= 1393/4000
+Vozilo mješanko 3  je preuzelo 8.85kg otpada iz spremnika mješano [1193]. #= 1149/3000
+Vozilo staklarko 1 je preuzelo 16.84kg otpada iz spremnika staklo [1039]. #= 502/4000
+Vozilo papirko 1   je preuzelo 15.090001kg otpada iz spremnika papir [1107]. #= 985/3000
+Vozilo metalko 1   je preuzelo 17.559998kg otpada iz spremnika metal [1243]. #= 561/5000
+Vozilo mješanko 2  je preuzelo 15.79kg otpada iz spremnika mješano [1194]. #= 1278/5000
+Vozilo mješanko 1  je preuzelo 14.32kg otpada iz spremnika mješano [1195]. #= 1407/4000
+Vozilo mješanko 3  je preuzelo 14.14kg otpada iz spremnika mješano [1196]. #= 1163/3000
+Vozilo staklarko 1 je preuzelo 40.23kg otpada iz spremnika staklo [1095]. #= 542/4000
+Vozilo papirko 1   je preuzelo 18.630001kg otpada iz spremnika papir [1108]. #= 1003/3000
+Vozilo metalko 1   je preuzelo 7.44kg otpada iz spremnika metal [1244]. #= 568/5000
+Vozilo mješanko 2  je preuzelo 24.1kg otpada iz spremnika mješano [1197]. #= 1302/5000
+Vozilo mješanko 1  je preuzelo 21.75kg otpada iz spremnika mješano [1198]. #= 1428/4000
+Vozilo mješanko 3  je preuzelo 28.83kg otpada iz spremnika mješano [1199]. #= 1191/3000
+Vozilo staklarko 1 je preuzelo 49.580006kg otpada iz spremnika staklo [1096]. #= 591/4000
+Vozilo papirko 1   je preuzelo 19.65kg otpada iz spremnika papir [1109]. #= 1022/3000
+Vozilo metalko 1   je preuzelo 17.78kg otpada iz spremnika metal [1245]. #= 585/5000
+Vozilo mješanko 2  je preuzelo 221.4kg otpada iz spremnika mješano [1200]. #= 1523/5000
+Vozilo mješanko 1  je preuzelo 123.8kg otpada iz spremnika mješano [1201]. #= 1551/4000
+Vozilo mješanko 3  je preuzelo 92.46kg otpada iz spremnika mješano [1202]. #= 1283/3000
+Vozilo staklarko 1 je preuzelo 5.54kg otpada iz spremnika staklo [1097]. #= 596/4000
+Vozilo papirko 1   je preuzelo 13.629999kg otpada iz spremnika papir [1110]. #= 1035/3000
+Vozilo metalko 1   je preuzelo 62.08kg otpada iz spremnika metal [1246]. #= 647/5000
+Vozilo mješanko 2  je preuzelo 185.27kg otpada iz spremnika mješano [1203]. #= 1708/5000
+Vozilo mješanko 1  je preuzelo 115.45kg otpada iz spremnika mješano [1204]. #= 1666/4000
+Vozilo mješanko 3  je preuzelo 104.3kg otpada iz spremnika mješano [1205]. #= 1387/3000
+Vozilo staklarko 1 je preuzelo 18.85kg otpada iz spremnika staklo [1098]. #= 614/4000
+Vozilo papirko 1   je preuzelo 23.34kg otpada iz spremnika papir [1111]. #= 1058/3000
+Vozilo metalko 1   je preuzelo 56.239998kg otpada iz spremnika metal [1247]. #= 703/5000
+Vozilo mješanko 2  je preuzelo 150.06kg otpada iz spremnika mješano [1206]. #= 1858/5000
+Vozilo mješanko 1  je preuzelo 137.37kg otpada iz spremnika mješano [1207]. #= 1803/4000
+Vozilo mješanko 3  je preuzelo 199.49kg otpada iz spremnika mješano [1208]. #= 1586/3000
+Vozilo staklarko 1 je preuzelo 10.77kg otpada iz spremnika staklo [1099]. #= 624/4000
+Vozilo papirko 1   je preuzelo 15.35kg otpada iz spremnika papir [1112]. #= 1073/3000
+Vozilo metalko 1   je preuzelo 28.98kg otpada iz spremnika metal [1248]. #= 731/5000
+Vozilo mješanko 2  je preuzelo 289.57kg otpada iz spremnika mješano [1209]. #= 2147/5000
+Vozilo mješanko 1  je preuzelo 244.57kg otpada iz spremnika mješano [1210]. #= 2047/4000
+Vozilo mješanko 3  je preuzelo 175.49kg otpada iz spremnika mješano [1211]. #= 1761/3000
+Vozilo staklarko 1 je preuzelo 12.05kg otpada iz spremnika staklo [1100]. #= 636/4000
+Vozilo papirko 1   je preuzelo 20.35kg otpada iz spremnika papir [1160]. #= 1093/3000
+Vozilo metalko 1   je preuzelo 14.369999kg otpada iz spremnika metal [1328]. #= 745/5000
+Vozilo mješanko 2  je preuzelo 188.35kg otpada iz spremnika mješano [1212]. #= 2335/5000
+Vozilo mješanko 1  je preuzelo 236.72kg otpada iz spremnika mješano [1213]. #= 2283/4000
+Vozilo mješanko 3  je preuzelo 10.72kg otpada iz spremnika mješano [1249]. #= 1771/3000
+Vozilo staklarko 1 je preuzelo 9.65kg otpada iz spremnika staklo [1101]. #= 645/4000
+Vozilo papirko 1   je preuzelo 11.410001kg otpada iz spremnika papir [1161]. #= 1104/3000
+Vozilo metalko 1   je preuzelo 12.440001kg otpada iz spremnika metal [1329]. #= 757/5000
+Vozilo mješanko 2  je preuzelo 24.84kg otpada iz spremnika mješano [1250]. #= 2359/5000
+Vozilo mješanko 1  je preuzelo 14.09kg otpada iz spremnika mješano [1251]. #= 2297/4000
+Vozilo mješanko 3  je preuzelo 29.59kg otpada iz spremnika mješano [1252]. #= 1800/3000
+Vozilo staklarko 1 je preuzelo 15.2kg otpada iz spremnika staklo [1102]. #= 660/4000
+Vozilo papirko 1   je preuzelo 11.799999kg otpada iz spremnika papir [1162]. #= 1115/3000
+Vozilo metalko 1   je preuzelo 14.860001kg otpada iz spremnika metal [1330]. #= 771/5000
+Vozilo mješanko 2  je preuzelo 28.0kg otpada iz spremnika mješano [1253]. #= 2387/5000
+Vozilo mješanko 1  je preuzelo 16.09kg otpada iz spremnika mješano [1254]. #= 2313/4000
+Vozilo mješanko 3  je preuzelo 10.49kg otpada iz spremnika mješano [1255]. #= 1810/3000
+Vozilo staklarko 1 je preuzelo 6.97kg otpada iz spremnika staklo [1103]. #= 666/4000
+Vozilo papirko 1   je preuzelo 10.82kg otpada iz spremnika papir [1163]. #= 1125/3000
+Vozilo metalko 1   je preuzelo 14.210001kg otpada iz spremnika metal [1331]. #= 785/5000
+Vozilo mješanko 2  je preuzelo 28.28kg otpada iz spremnika mješano [1256]. #= 2415/5000
+Vozilo mješanko 1  je preuzelo 22.63kg otpada iz spremnika mješano [1257]. #= 2335/4000
+Vozilo mješanko 3  je preuzelo 11.44kg otpada iz spremnika mješano [1258]. #= 1821/3000
+Vozilo staklarko 1 je preuzelo 15.98kg otpada iz spremnika staklo [1104]. #= 681/4000
+Vozilo papirko 1   je preuzelo 16.02kg otpada iz spremnika papir [1164]. #= 1141/3000
+Vozilo metalko 1   je preuzelo 10.0kg otpada iz spremnika metal [1332]. #= 795/5000
+Vozilo mješanko 2  je preuzelo 22.94kg otpada iz spremnika mješano [1259]. #= 2437/5000
+Vozilo mješanko 1  je preuzelo 29.8kg otpada iz spremnika mješano [1260]. #= 2364/4000
+Vozilo mješanko 3  je preuzelo 15.84kg otpada iz spremnika mješano [1261]. #= 1836/3000
+Vozilo staklarko 1 je preuzelo 36.15kg otpada iz spremnika staklo [1140]. #= 717/4000
+Vozilo papirko 1   je preuzelo 18.48kg otpada iz spremnika papir [1165]. #= 1159/3000
+Vozilo metalko 1   je preuzelo 19.66kg otpada iz spremnika metal [1333]. #= 814/5000
+Vozilo mješanko 2  je preuzelo 18.06kg otpada iz spremnika mješano [1262]. #= 2455/5000
+Vozilo mješanko 1  je preuzelo 5.83kg otpada iz spremnika mješano [1263]. #= 2369/4000
+Vozilo mješanko 3  je preuzelo 151.43kg otpada iz spremnika mješano [1264]. #= 1987/3000
+Vozilo staklarko 1 je preuzelo 16.369999kg otpada iz spremnika staklo [1141]. #= 733/4000
+Vozilo papirko 1   je preuzelo 75.99kg otpada iz spremnika papir [1166]. #= 1234/3000
+Vozilo metalko 1   je preuzelo 6.5kg otpada iz spremnika metal [1334]. #= 820/5000
+Vozilo mješanko 2  je preuzelo 112.0kg otpada iz spremnika mješano [1265]. #= 2567/5000
+Vozilo mješanko 1  je preuzelo 160.27kg otpada iz spremnika mješano [1266]. #= 2529/4000
+Vozilo mješanko 3  je preuzelo 210.74kg otpada iz spremnika mješano [1267]. #= 2197/3000
+Vozilo staklarko 1 je preuzelo 6.41kg otpada iz spremnika staklo [1142]. #= 739/4000
+Vozilo papirko 1   je preuzelo 78.2kg otpada iz spremnika papir [1167]. #= 1312/3000
+Vozilo metalko 1   je preuzelo 46.72kg otpada iz spremnika metal [1335]. #= 866/5000
+Vozilo mješanko 2  je preuzelo 233.59kg otpada iz spremnika mješano [1268]. #= 2800/5000
+Vozilo mješanko 1  je preuzelo 248.83kg otpada iz spremnika mješano [1269]. #= 2777/4000
+Vozilo mješanko 3  je preuzelo 256.43kg otpada iz spremnika mješano [1270]. #= 2453/3000
+Vozilo staklarko 1 je preuzelo 13.39kg otpada iz spremnika staklo [1143]. #= 752/4000
+Vozilo papirko 1   je preuzelo 106.82kg otpada iz spremnika papir [1168]. #= 1418/3000
+Vozilo metalko 1   je preuzelo 69.079994kg otpada iz spremnika metal [1336]. #= 935/5000
+Vozilo mješanko 2  je preuzelo 163.36kg otpada iz spremnika mješano [1271]. #= 2963/5000
+Vozilo mješanko 1  je preuzelo 118.44kg otpada iz spremnika mješano [1272]. #= 2895/4000
+Vozilo mješanko 3  je preuzelo 193.19kg otpada iz spremnika mješano [1273]. #= 2646/3000
+Vozilo staklarko 1 je preuzelo 19.8kg otpada iz spremnika staklo [1144]. #= 771/4000
+Vozilo papirko 1   je preuzelo 137.27kg otpada iz spremnika papir [1169]. #= 1555/3000
+Vozilo metalko 1   je preuzelo 59.44kg otpada iz spremnika metal [1337]. #= 994/5000
+Vozilo mješanko 2  je preuzelo 20.96kg otpada iz spremnika mješano [1339]. #= 2983/5000
+Vozilo mješanko 1  je preuzelo 21.29kg otpada iz spremnika mješano [1340]. #= 2916/4000
+Vozilo mješanko 3  je preuzelo 26.79kg otpada iz spremnika mješano [1341]. #= 2672/3000
+Vozilo staklarko 1 je preuzelo 9.67kg otpada iz spremnika staklo [1145]. #= 780/4000
+Vozilo papirko 1   je preuzelo 126.91kg otpada iz spremnika papir [1170]. #= 1681/3000
+Vozilo metalko 1   je preuzelo 54.22kg otpada iz spremnika metal [1338]. #= 1048/5000
+Vozilo mješanko 2  je preuzelo 10.17kg otpada iz spremnika mješano [1342]. #= 2993/5000
+Vozilo mješanko 1  je preuzelo 3.06kg otpada iz spremnika mješano [1343]. #= 2919/4000
+Vozilo mješanko 3  je preuzelo 28.56kg otpada iz spremnika mješano [1344]. #= 2700/3000
+Vozilo staklarko 1 je preuzelo 15.24kg otpada iz spremnika staklo [1146]. #= 795/4000
+Vozilo papirko 1   je preuzelo 123.59kg otpada iz spremnika papir [1171]. #= 1804/3000
+Vozilo mješanko 2  je preuzelo 4.54kg otpada iz spremnika mješano [1345]. #= 2997/5000
+Vozilo mješanko 1  je preuzelo 19.77kg otpada iz spremnika mješano [1346]. #= 2938/4000
+Vozilo mješanko 3  je preuzelo 16.13kg otpada iz spremnika mješano [1347]. #= 2716/3000
+Vozilo staklarko 1 je preuzelo 5.89kg otpada iz spremnika staklo [1147]. #= 800/4000
+Vozilo papirko 1   je preuzelo 134.48kg otpada iz spremnika papir [1172]. #= 1938/3000
+Vozilo mješanko 2  je preuzelo 24.68kg otpada iz spremnika mješano [1348]. #= 3021/5000
+Vozilo mješanko 1  je preuzelo 17.3kg otpada iz spremnika mješano [1349]. #= 2955/4000
+Vozilo mješanko 3  je preuzelo 6.24kg otpada iz spremnika mješano [1350]. #= 2722/3000
+Vozilo staklarko 1 je preuzelo 47.02kg otpada iz spremnika staklo [1148]. #= 847/4000
+Vozilo papirko 1   je preuzelo 147.98kg otpada iz spremnika papir [1173]. #= 2085/3000
+Vozilo mješanko 2  je preuzelo 13.27kg otpada iz spremnika mješano [1351]. #= 3034/5000
+Vozilo mješanko 1  je preuzelo 4.09kg otpada iz spremnika mješano [1352]. #= 2959/4000
+Vozilo mješanko 3  je preuzelo 16.31kg otpada iz spremnika mješano [1353]. #= 2738/3000
+Vozilo staklarko 1 je preuzelo 39.47kg otpada iz spremnika staklo [1149]. #= 886/4000
+Vozilo papirko 1   je preuzelo 68.74kg otpada iz spremnika papir [1174]. #= 2153/3000
+Vozilo mješanko 2  je preuzelo 25.49kg otpada iz spremnika mješano [1354]. #= 3059/5000
+Vozilo mješanko 1  je preuzelo 28.72kg otpada iz spremnika mješano [1355]. #= 2987/4000
+Vozilo mješanko 3  je preuzelo 8.3kg otpada iz spremnika mješano [1356]. #= 2746/3000
+Vozilo staklarko 1 je preuzelo 27.73kg otpada iz spremnika staklo [1150]. #= 913/4000
+Vozilo papirko 1   je preuzelo 87.4kg otpada iz spremnika papir [1175]. #= 2240/3000
+Vozilo mješanko 2  je preuzelo 22.48kg otpada iz spremnika mješano [1357]. #= 3081/5000
+Vozilo mješanko 1  je preuzelo 10.38kg otpada iz spremnika mješano [1358]. #= 2997/4000
+Vozilo mješanko 3  je preuzelo 11.32kg otpada iz spremnika mješano [1359]. #= 2757/3000
+Vozilo staklarko 1 je preuzelo 42.31kg otpada iz spremnika staklo [1151]. #= 955/4000
+Vozilo papirko 1   je preuzelo 99.74kg otpada iz spremnika papir [1176]. #= 2339/3000
+Vozilo mješanko 2  je preuzelo 4.7kg otpada iz spremnika mješano [1360]. #= 3085/5000
+Vozilo mješanko 1  je preuzelo 13.45kg otpada iz spremnika mješano [1361]. #= 3010/4000
+Vozilo mješanko 3  je preuzelo 22.75kg otpada iz spremnika mješano [1362]. #= 2779/3000
+Vozilo staklarko 1 je preuzelo 34.89kg otpada iz spremnika staklo [1152]. #= 989/4000
+Vozilo papirko 1   je preuzelo 99.84kg otpada iz spremnika papir [1177]. #= 2438/3000
+Vozilo mješanko 2  je preuzelo 29.34kg otpada iz spremnika mješano [1363]. #= 3114/5000
+Vozilo mješanko 1  je preuzelo 22.75kg otpada iz spremnika mješano [1364]. #= 3032/4000
+Vozilo mješanko 3  je preuzelo 18.75kg otpada iz spremnika mješano [1365]. #= 2797/3000
+Vozilo staklarko 1 je preuzelo 25.04kg otpada iz spremnika staklo [1153]. #= 1014/4000
+Vozilo papirko 1   je preuzelo 12.35kg otpada iz spremnika papir [1229]. #= 2450/3000
+Vozilo mješanko 2  je preuzelo 19.23kg otpada iz spremnika mješano [1366]. #= 3133/5000
+Vozilo mješanko 1  je preuzelo 14.56kg otpada iz spremnika mješano [1367]. #= 3046/4000
+Vozilo mješanko 3  je preuzelo 9.05kg otpada iz spremnika mješano [1368]. #= 2806/3000
+Vozilo staklarko 1 je preuzelo 43.9kg otpada iz spremnika staklo [1154]. #= 1057/4000
+Vozilo papirko 1   je preuzelo 15.13kg otpada iz spremnika papir [1230]. #= 2465/3000
+Vozilo mješanko 2  je preuzelo 11.95kg otpada iz spremnika mješano [1369]. #= 3144/5000
+Vozilo mješanko 1  je preuzelo 4.33kg otpada iz spremnika mješano [1370]. #= 3050/4000
+Vozilo mješanko 3  je preuzelo 11.47kg otpada iz spremnika mješano [1371]. #= 2817/3000
+Vozilo staklarko 1 je preuzelo 25.75kg otpada iz spremnika staklo [1155]. #= 1082/4000
+Vozilo papirko 1   je preuzelo 12.99kg otpada iz spremnika papir [1231]. #= 2477/3000
+Vozilo mješanko 2  je preuzelo 21.3kg otpada iz spremnika mješano [1372]. #= 3165/5000
+Vozilo mješanko 1  je preuzelo 5.75kg otpada iz spremnika mješano [1373]. #= 3055/4000
+Vozilo mješanko 3  je preuzelo 21.08kg otpada iz spremnika mješano [1374]. #= 2838/3000
+Vozilo staklarko 1 je preuzelo 35.23kg otpada iz spremnika staklo [1156]. #= 1117/4000
+Vozilo papirko 1   je preuzelo 19.02kg otpada iz spremnika papir [1232]. #= 2496/3000
+Vozilo mješanko 2  je preuzelo 149.62kg otpada iz spremnika mješano [1375]. #= 3314/5000
+Vozilo mješanko 1  je preuzelo 196.45kg otpada iz spremnika mješano [1376]. #= 3251/4000
+Vozilo mješanko 3  je napunjeno i odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 26.13kg otpada iz spremnika staklo [1157]. #= 1143/4000
+Vozilo papirko 1   je preuzelo 18.04kg otpada iz spremnika papir [1233]. #= 2514/3000
+Vozilo mješanko 2  je preuzelo 168.57kg otpada iz spremnika mješano [1377]. #= 3482/5000
+Vozilo mješanko 1  je preuzelo 212.36002kg otpada iz spremnika mješano [1378]. #= 3463/4000
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 41.55kg otpada iz spremnika staklo [1158]. #= 1184/4000
+Vozilo papirko 1   je preuzelo 12.92kg otpada iz spremnika papir [1234]. #= 2526/3000
+Vozilo mješanko 2  je preuzelo 113.74kg otpada iz spremnika mješano [1379]. #= 3595/5000
+Vozilo mješanko 1  je preuzelo 141.61kg otpada iz spremnika mješano [1380]. #= 3604/4000
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 30.3kg otpada iz spremnika staklo [1159]. #= 1214/4000
+Vozilo papirko 1   je preuzelo 123.56kg otpada iz spremnika papir [1235]. #= 2649/3000
+Vozilo mješanko 2  je preuzelo 100.86kg otpada iz spremnika mješano [1381]. #= 3695/5000
+Vozilo mješanko 1  je preuzelo 128.06kg otpada iz spremnika mješano [1382]. #= 3732/4000
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 41.52kg otpada iz spremnika staklo [1214]. #= 1255/4000
+Vozilo papirko 1   je preuzelo 98.37kg otpada iz spremnika papir [1236]. #= 2747/3000
+Vozilo mješanko 2  je preuzelo 290.5kg otpada iz spremnika mješano [1383]. #= 3985/5000
+Vozilo mješanko 1  je napunjeno i odvozi otpad na odlagalište!
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 24.779999kg otpada iz spremnika staklo [1215]. #= 1279/4000
+Vozilo papirko 1   je preuzelo 100.66kg otpada iz spremnika papir [1237]. #= 2847/3000
+Vozilo mješanko 2  je preuzelo 293.99kg otpada iz spremnika mješano [1384]. #= 4278/5000
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 11.47kg otpada iz spremnika staklo [1216]. #= 1290/4000
+Vozilo papirko 1   je preuzelo 147.82kg otpada iz spremnika papir [1238]. #= 2994/3000
+Vozilo mješanko 2  je preuzelo 137.5kg otpada iz spremnika mješano [1385]. #= 4415/5000
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 9.92kg otpada iz spremnika staklo [1217]. #= 1299/4000
+Vozilo papirko 1   je napunjeno i odvozi otpad na odlagalište!
+Vozilo mješanko 2  je preuzelo 150.49kg otpada iz spremnika mješano [1386]. #= 4565/5000
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 17.61kg otpada iz spremnika staklo [1218]. #= 1316/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  je preuzelo 290.1kg otpada iz spremnika mješano [1387]. #= 4855/5000
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 18.4kg otpada iz spremnika staklo [1219]. #= 1334/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  je napunjeno i odvozi otpad na odlagalište!
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 9.76kg otpada iz spremnika staklo [1220]. #= 1343/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 28.72kg otpada iz spremnika staklo [1221]. #= 1371/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 40.08kg otpada iz spremnika staklo [1222]. #= 1411/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 29.74kg otpada iz spremnika staklo [1223]. #= 1440/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 38.29kg otpada iz spremnika staklo [1224]. #= 1478/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 29.3kg otpada iz spremnika staklo [1225]. #= 1507/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 40.57kg otpada iz spremnika staklo [1226]. #= 1547/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 15.55kg otpada iz spremnika staklo [1227]. #= 1562/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 28.32kg otpada iz spremnika staklo [1228]. #= 1590/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 40.859997kg otpada iz spremnika staklo [1274]. #= 1630/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 41.4kg otpada iz spremnika staklo [1275]. #= 1671/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  je obavilo odvoz otpada na odlagalište!
+Vozilo staklarko 1 je preuzelo 39.41kg otpada iz spremnika staklo [1276]. #= 1710/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  je preuzelo 166.83kg otpada iz spremnika mješano [1388]. #= 166/3000
+Vozilo staklarko 1 je preuzelo 16.22kg otpada iz spremnika staklo [1277]. #= 1726/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  je preuzelo 188.69kg otpada iz spremnika mješano [1389]. #= 354/3000
+Vozilo staklarko 1 je preuzelo 16.1kg otpada iz spremnika staklo [1278]. #= 1742/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo mješanko 1  odvozi otpad na odlagalište!
+Vozilo mješanko 3  je preuzelo 280.57kg otpada iz spremnika mješano [1390]. #= 634/3000
+Vozilo staklarko 1 je preuzelo 17.12kg otpada iz spremnika staklo [1279]. #= 1759/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo mješanko 1  je obavilo odvoz otpada na odlagalište!
+Vozilo staklarko 1 je preuzelo 18.31kg otpada iz spremnika staklo [1280]. #= 1777/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 19.46kg otpada iz spremnika staklo [1281]. #= 1796/4000
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 9.36kg otpada iz spremnika staklo [1282]. #= 1805/4000
+Vozilo papirko 1   je obavilo odvoz otpada na odlagalište!
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 10.94kg otpada iz spremnika staklo [1283]. #= 1815/4000
+Vozilo papirko 1   je preuzelo 64.54kg otpada iz spremnika papir [1239]. #= 64/3000
+Vozilo mješanko 2  odvozi otpad na odlagalište!
+Vozilo staklarko 1 je preuzelo 19.46kg otpada iz spremnika staklo [1284]. #= 1834/4000
+Vozilo papirko 1   je preuzelo 81.98kg otpada iz spremnika papir [1240]. #= 145/3000
+Vozilo mješanko 2  je obavilo odvoz otpada na odlagalište!
+Vozilo staklarko 1 je preuzelo 16.65kg otpada iz spremnika staklo [1285]. #= 1850/4000
+Vozilo papirko 1   je preuzelo 88.12kg otpada iz spremnika papir [1241]. #= 233/3000
+Vozilo staklarko 1 je preuzelo 12.26kg otpada iz spremnika staklo [1286]. #= 1862/4000
+Vozilo papirko 1   je preuzelo 137.97kg otpada iz spremnika papir [1242]. #= 370/3000
+Vozilo staklarko 1 je preuzelo 17.09kg otpada iz spremnika staklo [1287]. #= 1879/4000
+Vozilo papirko 1   je preuzelo 11.97kg otpada iz spremnika papir [1302]. #= 381/3000
+Vozilo staklarko 1 je preuzelo 6.18kg otpada iz spremnika staklo [1288]. #= 1885/4000
+Vozilo papirko 1   je preuzelo 10.49kg otpada iz spremnika papir [1303]. #= 391/3000
+Vozilo staklarko 1 je preuzelo 10.87kg otpada iz spremnika staklo [1289]. #= 1895/4000
+Vozilo papirko 1   je preuzelo 9.48kg otpada iz spremnika papir [1304]. #= 400/3000
+Vozilo staklarko 1 je preuzelo 34.53kg otpada iz spremnika staklo [1290]. #= 1929/4000
+Vozilo papirko 1   je preuzelo 14.58kg otpada iz spremnika papir [1305]. #= 414/3000
+Vozilo staklarko 1 je preuzelo 36.68kg otpada iz spremnika staklo [1291]. #= 1965/4000
+Vozilo papirko 1   je preuzelo 7.7200003kg otpada iz spremnika papir [1306]. #= 421/3000
+Vozilo staklarko 1 je preuzelo 43.81kg otpada iz spremnika staklo [1292]. #= 2008/4000
+Vozilo papirko 1   je preuzelo 13.910001kg otpada iz spremnika papir [1307]. #= 434/3000
+Vozilo staklarko 1 je preuzelo 19.39kg otpada iz spremnika staklo [1293]. #= 2027/4000
+Vozilo papirko 1   je preuzelo 10.3kg otpada iz spremnika papir [1308]. #= 444/3000
+Vozilo staklarko 1 je preuzelo 36.55kg otpada iz spremnika staklo [1294]. #= 2063/4000
+Vozilo papirko 1   je preuzelo 2.34kg otpada iz spremnika papir [1309]. #= 446/3000
+Vozilo staklarko 1 je preuzelo 41.3kg otpada iz spremnika staklo [1295]. #= 2104/4000
+Vozilo papirko 1   je preuzelo 18.19kg otpada iz spremnika papir [1310]. #= 464/3000
+Vozilo staklarko 1 je preuzelo 22.59kg otpada iz spremnika staklo [1296]. #= 2126/4000
+Vozilo papirko 1   je preuzelo 22.369999kg otpada iz spremnika papir [1311]. #= 486/3000
+Vozilo staklarko 1 je preuzelo 38.77kg otpada iz spremnika staklo [1297]. #= 2164/4000
+Vozilo papirko 1   je preuzelo 19.17kg otpada iz spremnika papir [1312]. #= 505/3000
+Vozilo staklarko 1 je preuzelo 28.86kg otpada iz spremnika staklo [1298]. #= 2192/4000
+Vozilo papirko 1   je preuzelo 18.869999kg otpada iz spremnika papir [1313]. #= 523/3000
+Vozilo staklarko 1 je preuzelo 39.1kg otpada iz spremnika staklo [1299]. #= 2231/4000
+Vozilo papirko 1   je preuzelo 11.629999kg otpada iz spremnika papir [1314]. #= 534/3000
+Vozilo staklarko 1 je preuzelo 25.61kg otpada iz spremnika staklo [1300]. #= 2256/4000
+Vozilo papirko 1   je preuzelo 18.130001kg otpada iz spremnika papir [1315]. #= 552/3000
+Vozilo staklarko 1 je preuzelo 41.97kg otpada iz spremnika staklo [1301]. #= 2297/4000
+Vozilo papirko 1   je preuzelo 60.83kg otpada iz spremnika papir [1316]. #= 612/3000
+Vozilo papirko 1   je preuzelo 130.56kg otpada iz spremnika papir [1317]. #= 742/3000
+Vozilo papirko 1   je preuzelo 148.69kg otpada iz spremnika papir [1318]. #= 890/3000
+Vozilo papirko 1   je preuzelo 131.55kg otpada iz spremnika papir [1319]. #= 1021/3000
+Vozilo papirko 1   je preuzelo 91.95kg otpada iz spremnika papir [1320]. #= 1112/3000
+Vozilo papirko 1   je preuzelo 120.55kg otpada iz spremnika papir [1321]. #= 1232/3000
+Vozilo papirko 1   je preuzelo 65.68kg otpada iz spremnika papir [1322]. #= 1297/3000
+Vozilo papirko 1   je preuzelo 133.8kg otpada iz spremnika papir [1323]. #= 1430/3000
+Vozilo papirko 1   je preuzelo 108.13kg otpada iz spremnika papir [1324]. #= 1538/3000
+Vozilo papirko 1   je preuzelo 126.79kg otpada iz spremnika papir [1325]. #= 1664/3000
+Vozilo papirko 1   je preuzelo 134.3kg otpada iz spremnika papir [1326]. #= 1798/3000
+Vozilo papirko 1   je preuzelo 67.47kg otpada iz spremnika papir [1327]. #= 1865/3000
+Vozilo mješanko 3  odvozi otpad na odlagalište!
+Vozilo staklarko 1 odvozi otpad na odlagalište!
+Vozilo papirko 1   odvozi otpad na odlagalište!
+Vozilo metalko 1   odvozi otpad na odlagalište!
