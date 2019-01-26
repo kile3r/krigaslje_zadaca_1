@@ -5,6 +5,7 @@
  */
 package org.foi.uzdiz.krigaslje.dz1.krigaslje_zadaca_1;
 
+import java.util.ArrayList;
 import java.util.List;
 import org.foi.uzdiz.krigaslje.dz1.singleton.Ispis;
 import org.foi.uzdiz.krigaslje.dz1.singleton.Parametri;
@@ -14,14 +15,18 @@ import org.foi.uzdiz.krigaslje.dz1.singleton.Parametri;
  * @author kile
  */
 public class Vozilo {
+    
+    String id;
     String naziv;
     int tip;
     int vrsta;
     int nosivost;
-    String vozaci;
+    int status;  // 0-pripremi 1- kvar 2- kontorla 3- isprazni
+    public List<Vozac> listaVozaca;
+    
     int trenutnaKolicina;
-    int status;
     int ciklusiOdvoza;
+    
     String vrstaString;
 
     public Vozilo(String naziv, int tip, int vrsta, int nosivost, String vozaci) {
@@ -29,12 +34,39 @@ public class Vozilo {
         this.tip = tip;
         this.vrsta = vrsta;
         this.nosivost = nosivost;
-        this.vozaci = vozaci;
+        //this.vozaci = vozaci;
         this.trenutnaKolicina = 0;
         this.status = 1;
         this.ciklusiOdvoza = 0;
         this.vrstaString = mapirajVrstu(vrsta);
     }
+
+    public Vozilo(String[] zapisi) {
+        //id = zapisi[0];
+        naziv = zapisi[0].trim();
+        tip = Integer.parseInt(zapisi[1]);
+        vrsta = Integer.parseInt(zapisi[2]);
+        nosivost = Integer.parseInt(zapisi[3]);
+        listaVozaca = dodajVozace(zapisi[4]);
+        status = 0;
+        trenutnaKolicina = 0;
+        ciklusiOdvoza = 0;
+        vrstaString = mapirajVrstu(vrsta);
+
+    }
+    
+    private List<Vozac> dodajVozace(String zapis) {
+        
+        List<Vozac> listaVozaca = new ArrayList<>();
+        String[] vozaci = null;
+        vozaci = zapis.split(",");
+        for (String s : vozaci) {
+            Vozac v = new Vozac(s);
+            listaVozaca.add(v);
+        }
+        return listaVozaca;
+    }
+
     public void preuzmiOtpad(List<Ulica> ulice){
         if(status==1){
             for(Ulica u : ulice){
@@ -77,5 +109,87 @@ public class Vozilo {
     void iprazniKamion() {
         Ispis.getInstance().uvjetovaniIspis("Vozilo " + naziv + " odvozi otpad na odlagalište!");
     }
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public String getNaziv() {
+        return naziv;
+    }
+
+    public void setNaziv(String naziv) {
+        this.naziv = naziv;
+    }
+
+    public int getTip() {
+        return tip;
+    }
+
+    public void setTip(int tip) {
+        this.tip = tip;
+    }
+
+    public int getVrsta() {
+        return vrsta;
+    }
+
+    public void setVrsta(int vrsta) {
+        this.vrsta = vrsta;
+    }
+
+    public int getNosivost() {
+        return nosivost;
+    }
+
+    public void setNosivost(int nosivost) {
+        this.nosivost = nosivost;
+    }
+
+    public int getStatus() {
+        return status;
+    }
+
+    public void setStatus(int status) {
+        this.status = status;
+    }
+
+    public List<Vozac> getListaVozaca() {
+        return listaVozaca;
+    }
+
+    public void setListaVozaca(List<Vozac> listaVozaca) {
+        this.listaVozaca = listaVozaca;
+    }
+
+    public int getTrenutnaKolicina() {
+        return trenutnaKolicina;
+    }
+
+    public void setTrenutnaKolicina(int trenutnaKolicina) {
+        this.trenutnaKolicina = trenutnaKolicina;
+    }
+
+    public int getCiklusiOdvoza() {
+        return ciklusiOdvoza;
+    }
+
+    public void setCiklusiOdvoza(int ciklusiOdvoza) {
+        this.ciklusiOdvoza = ciklusiOdvoza;
+    }
+
+    public String getVrstaString() {
+        return vrstaString;
+    }
+
+    public void setVrstaString(String vrstaString) {
+        this.vrstaString = vrstaString;
+    }
+    
+    
     
 }

@@ -78,7 +78,7 @@ public class Korisnik {
             otpadBio = RndGenerator.getRndGeneratorInstance().dajSlucajniBrojsDecimalama((float)((min/100.0)*Parametri.getVelikiBio()), Parametri.getVelikiBio());
             otpadMjesano = RndGenerator.getRndGeneratorInstance().dajSlucajniBrojsDecimalama((float)((min/100.0)*Parametri.getVelikiMjesano()), Parametri.getVelikiMjesano());
         }
-        Ispis.getInstance().uvjetovaniIspis("Korisnik (" + id + ")["+tip+"] : Staklo - " + otpadStaklo + ", Papir - " + otpadPapir + ", Metal - " + otpadMetal + ", Bio - " + otpadBio + ", Mješano - " + otpadMjesano);
+        //Ispis.getInstance().uvjetovaniIspis("Korisnik (" + id + ")["+tip+"] : Staklo - " + otpadStaklo + ", Papir - " + otpadPapir + ", Metal - " + otpadMetal + ", Bio - " + otpadBio + ", Mješano - " + otpadMjesano);
     }
     public void baciOtpad(){
         for(Spremnik s:dodijeljeniSpremnici){
