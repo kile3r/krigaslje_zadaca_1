@@ -15,31 +15,19 @@ import org.foi.uzdiz.krigaslje.dz1.singleton.Parametri;
  * @author kile
  */
 public class Vozilo {
-    
+
     String id;
     String naziv;
     int tip;
     int vrsta;
     int nosivost;
-    int status;  // 0-pripremi 1- kvar 2- kontorla 3- isprazni
+    //int status;  // 0-pripremi 1- kvar 2- kontorla 3- isprazni
     public List<Vozac> listaVozaca;
-    
+
     int trenutnaKolicina;
     int ciklusiOdvoza;
-    
-    String vrstaString;
 
-    public Vozilo(String naziv, int tip, int vrsta, int nosivost, String vozaci) {
-        this.naziv = naziv;
-        this.tip = tip;
-        this.vrsta = vrsta;
-        this.nosivost = nosivost;
-        //this.vozaci = vozaci;
-        this.trenutnaKolicina = 0;
-        this.status = 1;
-        this.ciklusiOdvoza = 0;
-        this.vrstaString = mapirajVrstu(vrsta);
-    }
+    String vrstaString;
 
     public Vozilo(String[] zapisi) {
         //id = zapisi[0];
@@ -48,15 +36,15 @@ public class Vozilo {
         vrsta = Integer.parseInt(zapisi[2]);
         nosivost = Integer.parseInt(zapisi[3]);
         listaVozaca = dodajVozace(zapisi[4]);
-        status = 0;
+        //status = 0;
         trenutnaKolicina = 0;
         ciklusiOdvoza = 0;
         vrstaString = mapirajVrstu(vrsta);
 
     }
-    
+
     private List<Vozac> dodajVozace(String zapis) {
-        
+
         List<Vozac> listaVozaca = new ArrayList<>();
         String[] vozaci = null;
         vozaci = zapis.split(",");
@@ -66,44 +54,70 @@ public class Vozilo {
         }
         return listaVozaca;
     }
+    
+            //  Ako je njegova vrijednost 0 tada se generatorom slučajnog broja određuje
+            //  redoslijed ulica kojim se kreću sva vozila. U ulici vozilo se kreće od prvog do zadnjeg 
+            //  korisnika. Ako je vrijednost parametra 1 tada se svakom vozilu generatorom 
+            //  slučajnog broja određuje redoslijed ulica kojim se ono kreće. Na 
+            //  kraju dana sva vozila moraju odvesti otpad na mjesto za zbrinjavanje otpada.
 
-    public void preuzmiOtpad(List<Ulica> ulice){
-        if(status==1){
-            for(Ulica u : ulice){
-                for(Spremnik s: u.spremnici){
-                    if(s.naziv.equals(vrstaString)&&s.kolicinaOtpada>0){
-                        if((trenutnaKolicina+s.kolicinaOtpada)<nosivost){
-                            trenutnaKolicina+=s.kolicinaOtpada;
-                            
-                            Ispis.getInstance().uvjetovaniIspis("Vozilo " + naziv + " je preuzelo " + s.kolicinaOtpada +"kg otpada iz spremnika " + s.shortInfo() +". #= " + trenutnaKolicina + "/" + nosivost);
-                            s.kolicinaOtpada = 0;
-                        }else{
-                            status = 0;
-                            Ispis.getInstance().uvjetovaniIspis("Vozilo " + naziv + " je napunjeno i odvozi otpad na odlagalište!");
-                        }
-                        return;
-                    }
-                }
-            }
-        }else{
-            ciklusiOdvoza++;
-            if(ciklusiOdvoza>=Parametri.getBrojRadnihCiklusaZaOdvoz()){
-                ciklusiOdvoza=0;
-                status=1;
-                trenutnaKolicina = 0;
-                Ispis.getInstance().uvjetovaniIspis("Vozilo " + naziv + " je obavilo odvoz otpada na odlagalište!");
-            }else{
-                Ispis.getInstance().uvjetovaniIspis("Vozilo " + naziv + " odvozi otpad na odlagalište!");
-            }
+    public void preuzmiOtpad() {
+        if (Parametri.getPreuzimanja() == 0) {
+            //jedna nacin
+        }else {
+            //drugi
         }
+
     }
-    private String mapirajVrstu(int vrsta){
-        if(vrsta==0) return "staklo";
-        if(vrsta==1) return "papir";
-        if(vrsta==2) return "metal";
-        if(vrsta==3) return "bio";
-        if(vrsta==4) return "mješano";
-        else return "";
+
+//    public void preuzmiOtpad(List<Ulica> ulice){
+//        if(status==1){
+//            for(Ulica u : ulice){
+//                for(Spremnik s: u.spremnici){
+//                    if(s.naziv.equals(vrstaString)&&s.kolicinaOtpada>0){
+//                        if((trenutnaKolicina+s.kolicinaOtpada)<nosivost){
+//                            trenutnaKolicina+=s.kolicinaOtpada;
+//                            
+//                            Ispis.getInstance().uvjetovaniIspis("Vozilo " + naziv + " je preuzelo " + s.kolicinaOtpada +"kg otpada iz spremnika " + s.shortInfo() +". #= " + trenutnaKolicina + "/" + nosivost);
+//                            s.kolicinaOtpada = 0;
+//                        }else{
+//                            status = 0;
+//                            Ispis.getInstance().uvjetovaniIspis("Vozilo " + naziv + " je napunjeno i odvozi otpad na odlagalište!");
+//                        }
+//                        return;
+//                    }
+//                }
+//            }
+//        }else{
+//            ciklusiOdvoza++;
+//            if(ciklusiOdvoza>=Parametri.getBrojRadnihCiklusaZaOdvoz()){
+//                ciklusiOdvoza=0;
+//                status=1;
+//                trenutnaKolicina = 0;
+//                Ispis.getInstance().uvjetovaniIspis("Vozilo " + naziv + " je obavilo odvoz otpada na odlagalište!");
+//            }else{
+//                Ispis.getInstance().uvjetovaniIspis("Vozilo " + naziv + " odvozi otpad na odlagalište!");
+//            }
+//        }
+//    }
+    private String mapirajVrstu(int vrsta) {
+        if (vrsta == 0) {
+            return "staklo";
+        }
+        if (vrsta == 1) {
+            return "papir";
+        }
+        if (vrsta == 2) {
+            return "metal";
+        }
+        if (vrsta == 3) {
+            return "bio";
+        }
+        if (vrsta == 4) {
+            return "mješano";
+        } else {
+            return "";
+        }
     }
 
     void iprazniKamion() {
@@ -189,7 +203,5 @@ public class Vozilo {
     public void setVrstaString(String vrstaString) {
         this.vrstaString = vrstaString;
     }
-    
-    
-    
+
 }

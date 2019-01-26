@@ -12921,3 +12921,10 @@ Nepravilan zapis u datoteci spremnika: bio;0;1;1;1;1;120
 Nepravilan zapis u datoteci spremnika: bio;0;1;1;1;1;120
 Nepravilan zapis u datoteci spremnika: bio;0;1;1;1;1;120
 Nepravilan zapis u datoteci spremnika: bio;0;1;1;1;1;120
+Nepravilan zapis u datoteci ulica: Alojzija Stepinca;15;100;0
+Nepravilan zapis u datoteci spremnika: bio;0;1;1;1;1;120
+Nepravilan zapis u datoteci spremnika: bio;0;1;1;1;1;120
+Nepravilan zapis u datoteci spremnika: bio;0;1;1;1;1;120
+Nepravilan zapis u datoteci spremnika: bio;0;1;1;1;1;120
+Nepravilan zapis u datoteci spremnika: bio;0;1;1;1;1;120
+Nepravilan zapis u datoteci spremnika: bio;0;1;1;1;1;120
