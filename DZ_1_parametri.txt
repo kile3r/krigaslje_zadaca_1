@@ -2,11 +2,11 @@ ulice:DZ_1_ulice.txt
 spremnici:DZ_1_spremnici.txt
 vozila:DZ_1_vozila.txt
 izlaz:DZ1_krigaslje.txt
-ispis:0
-sjemeGeneratora:17153
+ispis:1
+sjemeGeneratora:12345
 brojDecimala:2
 brojRadnihCiklusaZaOdvoz:20
-preuzimanje:0
+preuzimanje:1
 maliMin:10
 srednjiMin:20
 velikiMin:30

@@ -25,15 +25,16 @@ public class Spremnik {
     public int nosivost;
 
     public float kolicinaOtpada;
-    
-    public static int broj= 1000;
+
+    public static int broj = 1000;
 
     public List<Korisnik> listaKorisnikaSpremnika;
-    
+
     public DataImporter di;
 
     public Spremnik() {
     }
+
     public Spremnik(String[] zapisi) {
         naziv = zapisi[0];
         vrsta = Integer.parseInt(zapisi[1]);
@@ -47,7 +48,7 @@ public class Spremnik {
     }
 
     public Spremnik(String naziv, int vrsta, int naBrojMalih, int naBrojSrednjih, int naBrojVelikih, int nosivost) {
-        
+
         this.naziv = naziv;
         this.vrsta = vrsta;
         this.naBrojMalih = naBrojMalih;
@@ -58,7 +59,7 @@ public class Spremnik {
         kolicinaOtpada = 0;
         listaKorisnikaSpremnika = new ArrayList<>();
         this.id = Spremnik.broj++;
-        
+
     }
 
     public Spremnik kloniraj() {
@@ -95,19 +96,16 @@ public class Spremnik {
         int kid = k.id;
         if ((kolicinaOtpada + otpad) <= nosivost) {
             kolicinaOtpada = kolicinaOtpada + otpad;
-            //Ispis.getInstance().uvjetovaniIspis("Korisnik ("+kid+") je u spremnik " + naziv + " (" + id + ") bacio " + otpad + "kg otpada");
-            System.out.println("Korisnik (" + kid + ") je u spremnik " + naziv + " (" + id + ") bacio " + otpad + "kg otpada");
+            Ispis.getInstance().ispisiDetalje("Korisnik (" + kid + ") je u spremnik " + naziv + " (" + id + ") bacio " + otpad + "kg otpada");
             return otpad;
         } else if (kolicinaOtpada < nosivost) {
             float diff = nosivost - kolicinaOtpada;
             kolicinaOtpada = nosivost;
             float preostali = otpad - diff;
-            Ispis.getInstance().uvjetovaniIspis("Korisnik (" + kid + ") je u spremnik " + naziv + " (" + id + ") bacio " + diff + "kg otpada i napunio kontenjer. Ostalo mu je " + preostali + "kg. ");
-            System.out.println("Korisnik (" + kid + ") je u spremnik " + naziv + " (" + id + ") bacio " + diff + "kg otpada i napunio kontenjer. Ostalo mu je " + preostali + "kg. ");
+            Ispis.getInstance().ispisiDetalje("Korisnik (" + kid + ") je u spremnik " + naziv + " (" + id + ") bacio " + diff + "kg otpada i napunio kontenjer. Ostalo mu je " + preostali + "kg. ");
             return diff;
         } else {
-            Ispis.getInstance().uvjetovaniIspis("Korisnik (" + kid + ") ne može baciti otpad jer je spremnik " + naziv + " (" + id + ") puni!");
-            System.out.println("Korisnik (" + kid + ") ne može baciti otpad jer je spremnik " + naziv + " (" + id + ") puni!");
+            Ispis.getInstance().ispisiDetalje("Korisnik (" + kid + ") ne može baciti otpad jer je spremnik " + naziv + " (" + id + ") puni!");
             return 0;
         }
     }
@@ -179,14 +177,6 @@ public class Spremnik {
     public void setKolicinaOtpada(float kolicinaOtpada) {
         this.kolicinaOtpada = kolicinaOtpada;
     }
-//
-//    public List<Spremnik> getListaSpremnika() {
-//        return listaSpremnika;
-//    }
-//
-//    public void setListaSpremnika(List<Spremnik> listaSpremnika) {
-//        this.listaSpremnika = listaSpremnika;
-//    }
 
     public List<Korisnik> getListaKorisnikaSpremnika() {
         return listaKorisnikaSpremnika;

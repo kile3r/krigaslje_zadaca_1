@@ -16,6 +16,9 @@ import java.io.IOException;
 public class Ispis {
     static Ispis instance;
     
+    String ispisKratki = "";
+    String ispisOpsirni = "";
+    
     private Ispis(){
         
     }
@@ -23,27 +26,35 @@ public class Ispis {
         if(instance == null) instance = new Ispis();
         return instance;
     }
-    public void ispis(String str){
-        System.out.println(str);
-        writeToFile(str);
+    
+     public void ispisiDetalje(String str){
+        ispisOpsirni +=  str + "\n";  
+        
     }
-    public void uvjetovaniIspis(String str){
+    
+   public void ispisiStatistiku(String str){
+       ispisKratki += str + "\n";
+   }
+   
+    public void uvjetovaniIspis(){
+        //0 -detaljni ispis
         if(Parametri.getIspis()==0){
-            System.out.println(str);
-            writeToFile(str);
-        }else{
-            //samo statistika
+            System.out.println(ispisOpsirni);
+            writeToFile(ispisOpsirni);
+        }else if (Parametri.getIspis()==1){
+            System.out.println(ispisKratki);
+            writeToFile(ispisKratki);
         }
     }
     private void writeToFile(String str){
-        str = str + "\n";
         String datotekaIzlaza = Parametri.getDatotekaIzlaz();
         try {
             File file = new File(datotekaIzlaza);
             if (!file.exists()) {
                 file.createNewFile();
             }
-            FileOutputStream writer = new FileOutputStream(datotekaIzlaza,true);
+            FileOutputStream writer = new FileOutputStream(datotekaIzlaza,false);
+            
             writer.write(str.getBytes());
             writer.close();
         } catch (IOException e) {

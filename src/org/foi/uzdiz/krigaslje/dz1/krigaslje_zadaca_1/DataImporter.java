@@ -16,7 +16,7 @@ import org.foi.uzdiz.krigaslje.dz1.singleton.Parametri;
  * @author kile
  */
 public class DataImporter {
-    
+
     Parametri param = Parametri.getInstance();
 
     public DataImporter() {
@@ -30,8 +30,15 @@ public class DataImporter {
         List<String[]> zapisVozila = fr.getRecords();
         List<Vozilo> listaVozila = new ArrayList<>();
 
+        Vozilo vozilo;
+
         for (String[] zapis : zapisVozila) {
-            listaVozila.add(new Vozilo(zapis));
+
+            vozilo = new Vozilo.VoziloBuilder(zapis[0], Integer.valueOf(zapis[1]), Integer.valueOf(zapis[2]), Integer.valueOf(zapis[3]), 0, 0, 0)
+                    .setListaVozaca(dodajVozace(zapis[4]))
+                    .build();
+            //listaVozila.add(new Vozilo(zapis)); ovo otkomentirat ako builder nebu dobar HA! dobar je
+            listaVozila.add(vozilo);
         }
 
         return listaVozila;
@@ -57,14 +64,26 @@ public class DataImporter {
         ReaderFactory rfu = new ReaderFactory("ulice");
         FileReader fru = rfu.fileReader();
         List<String[]> zapisiUlica = fru.getRecords();
-        
+
         List<Ulica> listaUlica = new ArrayList<>();
-        
-        for(String[] zapis :zapisiUlica){
+
+        for (String[] zapis : zapisiUlica) {
             listaUlica.add(new Ulica(zapis));
         }
 
         return listaUlica;
     }
-    
+
+    private List<Vozac> dodajVozace(String zapis) {
+
+        List<Vozac> listaVozaca = new ArrayList<>();
+        String[] vozaci = null;
+        vozaci = zapis.split(",");
+        for (String s : vozaci) {
+            Vozac v = new Vozac(s);
+            listaVozaca.add(v);
+        }
+        return listaVozaca;
+    }
+
 }

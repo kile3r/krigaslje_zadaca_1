@@ -8,7 +8,6 @@ package org.foi.uzdiz.krigaslje.dz1.krigaslje_zadaca_1;
 import java.util.ArrayList;
 import java.util.List;
 import org.foi.uzdiz.krigaslje.dz1.singleton.Ispis;
-import org.foi.uzdiz.krigaslje.dz1.singleton.Parametri;
 
 /**
  *
@@ -16,27 +15,34 @@ import org.foi.uzdiz.krigaslje.dz1.singleton.Parametri;
  */
 public class Vozilo {
 
-    String id;
+    //String id;
     String naziv;
     int tip;
     int vrsta;
-    int nosivost;
-    //int status;  // 0-pripremi 1- kvar 2- kontorla 3- isprazni
+    float nosivost;
+    int status;  // 0-pripremi 1-isprazni
+    float trenutnaKolicina;
+    int ciklusiOdvoza;
     public List<Vozac> listaVozaca;
 
-    int trenutnaKolicina;
-    int ciklusiOdvoza;
-
     String vrstaString;
+
+    public int brojPosjecenihUlica;
+    public int brojKontejnera;
+    public float ukupnaKolicinaOtpada;
+    public int brojMjesta;
+    public int brojOdlazakaNaZbrinjavanje;
+
+    List<Ulica> listaUlicaVozila;
 
     public Vozilo(String[] zapisi) {
         //id = zapisi[0];
         naziv = zapisi[0].trim();
         tip = Integer.parseInt(zapisi[1]);
         vrsta = Integer.parseInt(zapisi[2]);
-        nosivost = Integer.parseInt(zapisi[3]);
+        nosivost = Float.parseFloat(zapisi[3]);
         listaVozaca = dodajVozace(zapisi[4]);
-        //status = 0;
+        status = 0;
         trenutnaKolicina = 0;
         ciklusiOdvoza = 0;
         vrstaString = mapirajVrstu(vrsta);
@@ -54,53 +60,8 @@ public class Vozilo {
         }
         return listaVozaca;
     }
-    
-            //  Ako je njegova vrijednost 0 tada se generatorom slučajnog broja određuje
-            //  redoslijed ulica kojim se kreću sva vozila. U ulici vozilo se kreće od prvog do zadnjeg 
-            //  korisnika. Ako je vrijednost parametra 1 tada se svakom vozilu generatorom 
-            //  slučajnog broja određuje redoslijed ulica kojim se ono kreće. Na 
-            //  kraju dana sva vozila moraju odvesti otpad na mjesto za zbrinjavanje otpada.
 
-    public void preuzmiOtpad() {
-        if (Parametri.getPreuzimanja() == 0) {
-            //jedna nacin
-        }else {
-            //drugi
-        }
-
-    }
-
-//    public void preuzmiOtpad(List<Ulica> ulice){
-//        if(status==1){
-//            for(Ulica u : ulice){
-//                for(Spremnik s: u.spremnici){
-//                    if(s.naziv.equals(vrstaString)&&s.kolicinaOtpada>0){
-//                        if((trenutnaKolicina+s.kolicinaOtpada)<nosivost){
-//                            trenutnaKolicina+=s.kolicinaOtpada;
-//                            
-//                            Ispis.getInstance().uvjetovaniIspis("Vozilo " + naziv + " je preuzelo " + s.kolicinaOtpada +"kg otpada iz spremnika " + s.shortInfo() +". #= " + trenutnaKolicina + "/" + nosivost);
-//                            s.kolicinaOtpada = 0;
-//                        }else{
-//                            status = 0;
-//                            Ispis.getInstance().uvjetovaniIspis("Vozilo " + naziv + " je napunjeno i odvozi otpad na odlagalište!");
-//                        }
-//                        return;
-//                    }
-//                }
-//            }
-//        }else{
-//            ciklusiOdvoza++;
-//            if(ciklusiOdvoza>=Parametri.getBrojRadnihCiklusaZaOdvoz()){
-//                ciklusiOdvoza=0;
-//                status=1;
-//                trenutnaKolicina = 0;
-//                Ispis.getInstance().uvjetovaniIspis("Vozilo " + naziv + " je obavilo odvoz otpada na odlagalište!");
-//            }else{
-//                Ispis.getInstance().uvjetovaniIspis("Vozilo " + naziv + " odvozi otpad na odlagalište!");
-//            }
-//        }
-//    }
-    private String mapirajVrstu(int vrsta) {
+    private static String mapirajVrstu(int vrsta) {
         if (vrsta == 0) {
             return "staklo";
         }
@@ -121,15 +82,7 @@ public class Vozilo {
     }
 
     void iprazniKamion() {
-        Ispis.getInstance().uvjetovaniIspis("Vozilo " + naziv + " odvozi otpad na odlagalište!");
-    }
-
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
+        Ispis.getInstance().ispisiDetalje("Vozilo " + naziv + " odvozi otpad na odlagalište!");
     }
 
     public String getNaziv() {
@@ -156,11 +109,11 @@ public class Vozilo {
         this.vrsta = vrsta;
     }
 
-    public int getNosivost() {
+    public float getNosivost() {
         return nosivost;
     }
 
-    public void setNosivost(int nosivost) {
+    public void setNosivost(float nosivost) {
         this.nosivost = nosivost;
     }
 
@@ -180,11 +133,11 @@ public class Vozilo {
         this.listaVozaca = listaVozaca;
     }
 
-    public int getTrenutnaKolicina() {
+    public float getTrenutnaKolicina() {
         return trenutnaKolicina;
     }
 
-    public void setTrenutnaKolicina(int trenutnaKolicina) {
+    public void setTrenutnaKolicina(float trenutnaKolicina) {
         this.trenutnaKolicina = trenutnaKolicina;
     }
 
@@ -202,6 +155,63 @@ public class Vozilo {
 
     public void setVrstaString(String vrstaString) {
         this.vrstaString = vrstaString;
+    }
+
+    public List<Ulica> getListaUlicaVozila() {
+        return listaUlicaVozila;
+    }
+
+    public void setListaUlicaVozila(List<Ulica> listaUlicaVozila) {
+        this.listaUlicaVozila = listaUlicaVozila;
+    }
+
+    public Vozilo(VoziloBuilder builder) {
+        //this.id = builder.id;
+        this.naziv = builder.naziv;
+        this.tip = builder.tip;
+        this.vrsta = builder.vrsta;
+        this.nosivost = builder.nosivost;
+        this.status = builder.status;//0
+        this.trenutnaKolicina = builder.trenutnaKolicina;//0
+        this.ciklusiOdvoza = builder.ciklusiOdvoza;//0
+        this.listaVozaca = builder.listaVozaca;
+        this.vrstaString = builder.vrstaString;
+    }
+
+    public static class VoziloBuilder {
+
+        //private String id;
+        private String naziv;
+        private int tip;
+        private int vrsta;
+        private float nosivost;
+        private int status;  // 0-pripremi 1-isprazni
+        private float trenutnaKolicina;
+        private int ciklusiOdvoza;
+        private String vrstaString = Vozilo.mapirajVrstu(vrsta);
+
+        private List<Vozac> listaVozaca;
+
+        public VoziloBuilder(String naziv, int tip, int vrsta, int nosivost, int status, float trenutnaKolicina, int ciklusiOdvoza) {
+            //this.id = id;
+            this.naziv = naziv;
+            this.tip = tip;
+            this.vrsta = vrsta;
+            this.nosivost = nosivost;
+            this.status = status;
+            this.trenutnaKolicina = trenutnaKolicina;
+            this.ciklusiOdvoza = ciklusiOdvoza;
+        }
+
+        public VoziloBuilder setListaVozaca(List<Vozac> listaVozaca) {
+            this.listaVozaca = listaVozaca;
+            return this;
+        }
+
+        public Vozilo build() {
+            return new Vozilo(this);
+        }
+
     }
 
 }

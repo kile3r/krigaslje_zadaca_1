@@ -30,7 +30,7 @@ public class ReaderVozila implements FileReader{
                 if(isOkVozilo(str)){
                         listaUlica.add(str.split(";"));
                 }else{
-                    Ispis.getInstance().ispis("Nepravilan zapis u datoteci vozila: " + str);
+                    Ispis.getInstance().ispisiDetalje("Nepravilan zapis u datoteci vozila: " + str);
             }
         }
         }catch(IOException e){

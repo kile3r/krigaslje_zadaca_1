@@ -31,7 +31,7 @@ public class ReaderUlice implements FileReader{
                 if(isOkUlica(str)){
                         listaUlica.add(str.split(";"));
                 }else{
-                    Ispis.getInstance().ispis("Nepravilan zapis u datoteci ulica: " + str);
+                    Ispis.getInstance().ispisiDetalje("Nepravilan zapis u datoteci ulica: " + str);
             }
         }
         }catch(IOException e){

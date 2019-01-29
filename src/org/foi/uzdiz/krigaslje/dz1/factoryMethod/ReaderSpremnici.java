@@ -30,7 +30,7 @@ public class ReaderSpremnici implements FileReader{
                 if(isOkSpremnik(str)){
                         listaUlica.add(str.split(";"));
                 }else{
-                    Ispis.getInstance().ispis("Nepravilan zapis u datoteci spremnika: " + str);
+                    Ispis.getInstance().ispisiDetalje("Nepravilan zapis u datoteci spremnika: " + str);
             }
         }
         }catch(IOException e){

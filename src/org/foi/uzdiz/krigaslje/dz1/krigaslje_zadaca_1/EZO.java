@@ -29,18 +29,16 @@ public class EZO {
                 DataImporter di = new DataImporter();
                 InicijalizatorSustava is = new InicijalizatorSustava(di);
 
-                is.inicijalizcijaKorisnikaSpremnikaUlicama(di.getListaUlica());
-                
-                for(Vozilo v : di.getVozila()){
-                    System.out.println("Vozilo " + v.naziv + " " + v.vrsta);
-                }
-                
-                is.inicijalizacijaVozaca(di.getVozila());
-                
+                List<Ulica> listaUlica = is.inicijalizcijaKorisnikaSpremnikaUlicama(di.getListaUlica());
 
+                List<Vozilo> listaVozila = is.inicijalizacijaVozaca(di.getVozila());
 
-                //tudu - ovdje sad sve složit da se inicijalizira
-                // TODO - dodat statistiku (pozbrajat sve), onaj algoritam prolaska kroz ulice(da ih bude 2) s rndGeneratorom i buildera
+                Obrada obrada = new Obrada(listaVozila, listaUlica);
+                obrada.obradi();
+
+                Statistika s = new Statistika(listaVozila);
+                s.dajStatistiku();
+
             }
 
         } catch (Exception e) {
@@ -48,42 +46,6 @@ public class EZO {
             return;
 
         }
-
-        
-        //
-        //            List<Vozilo> listaAktivnihVozila = new ArrayList<>();
-        //            for (int i = 0; i < vozila.size(); i++) {
-        //                Vozilo v = vozila.get(RndGenerator.getRndGeneratorInstance().dajSlucajniBroj(0, vozila.size()));
-        //                while (listaAktivnihVozila.contains(v)) {
-        //                    v = vozila.get(RndGenerator.getRndGeneratorInstance().dajSlucajniBroj(0, vozila.size()));
-        //                }
-        //                listaAktivnihVozila.add(v);
-        //            }
-        //            while (imaOtpada(ulice)) {
-        //                //preuzmi otpad
-        //                for (Vozilo v : listaAktivnihVozila) {
-        //                    v.preuzmiOtpad(ulice);
-        //                }
-        //            }
-        //            for (Vozilo v : listaAktivnihVozila) {
-        //                if (v.trenutnaKolicina > 0) {
-        //                    v.iprazniKamion();
-        //                }
-        //            }
-        //        } else {
-        //            System.out.println("Krivi broj parametara. Potreno je navesti datoteku parametri.txt");
-        //        }
-    }
-
-    private static boolean imaOtpada(List<Ulica> ulice) {
-        for (Ulica u : ulice) {
-            for (Spremnik s : u.spremnici) {
-                if (s.kolicinaOtpada > 0) {
-                    return true;
-                }
-            }
-        }
-        return false;
     }
 
 }

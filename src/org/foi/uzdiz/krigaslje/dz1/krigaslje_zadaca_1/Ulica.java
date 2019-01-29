@@ -14,6 +14,7 @@ import org.foi.uzdiz.krigaslje.dz1.singleton.Ispis;
  * @author kile
  */
 public class Ulica {
+
     //id;naziv;broj mjesta; udio (%) mali;udio (%) srednji;udio (%) veliki
     //u1;Pavlinska;10;70;20;10
     //String id;
@@ -25,6 +26,7 @@ public class Ulica {
     int brojMalih;
     int brojSrednjih;
     int brojVelikih;
+
     public float otpadStaklo;
     public float otpadPapir;
     public float otpadMetal;
@@ -53,8 +55,8 @@ public class Ulica {
         stanovnici = new ArrayList<>();
         spremnici = new ArrayList<>();
     }
-    
-    public Ulica(String[] zapisi){
+
+    public Ulica(String[] zapisi) {
 
         naziv = zapisi[0];
         brojMjesta = Integer.valueOf(zapisi[1]);
@@ -63,7 +65,7 @@ public class Ulica {
         udioVeliki = Integer.valueOf(zapisi[4]);
         stanovnici = new ArrayList<>();
         spremnici = new ArrayList<>();
-   
+
     }
 
     public void odrediKorisnike() {
@@ -124,7 +126,7 @@ public class Ulica {
 
         Spremnik noviSpremnik = new Spremnik(spremnik.naziv, spremnik.vrsta, spremnik.naBrojMalih, spremnik.naBrojSrednjih, spremnik.naBrojVelikih, spremnik.nosivost);
         spremnici.add(noviSpremnik);
-        
+
         for (Korisnik k : stanovnici) {
             if (k.tip == 1) {
                 if (noviSpremnik.mozePrimitKorisnika(k.tip)) {
@@ -179,7 +181,7 @@ public class Ulica {
     }
 
     public void odloziOtpad() {
-        Ispis.getInstance().uvjetovaniIspis("***odlaganje otpada***" + naziv + "***");
+        Ispis.getInstance().ispisiDetalje("***odlaganje otpada***" + naziv + "***");
         for (Korisnik k : stanovnici) {
             k.baciOtpad();
         }
@@ -200,22 +202,14 @@ public class Ulica {
                 otpadMjesano += s.kolicinaOtpada;
             }
         }
-        Ispis.getInstance().uvjetovaniIspis("\nOtpad u ulici " + naziv + "\n");
-        Ispis.getInstance().uvjetovaniIspis("Staklo: " + otpadStaklo);
-        Ispis.getInstance().uvjetovaniIspis("Papir: " + otpadPapir);
-        Ispis.getInstance().uvjetovaniIspis("Metal: " + otpadMetal);
-        Ispis.getInstance().uvjetovaniIspis("Bio: " + otpadBio);
-        Ispis.getInstance().uvjetovaniIspis("Mješano: " + otpadMjesano);
-        Ispis.getInstance().uvjetovaniIspis("\n\n");
+//        Ispis.getInstance().uvjetovaniIspis("\nOtpad u ulici " + naziv + "\n");
+//        Ispis.getInstance().uvjetovaniIspis("Staklo: " + otpadStaklo);
+//        Ispis.getInstance().uvjetovaniIspis("Papir: " + otpadPapir);
+//        Ispis.getInstance().uvjetovaniIspis("Metal: " + otpadMetal);
+//        Ispis.getInstance().uvjetovaniIspis("Bio: " + otpadBio);
+//        Ispis.getInstance().uvjetovaniIspis("Mješano: " + otpadMjesano);
+//        Ispis.getInstance().uvjetovaniIspis("\n\n");
     }
-
-//    public String getId() {
-//        return id;
-//    }
-//
-//    public void setId(String id) {
-//        this.id = id;
-//    }
 
     public String getNaziv() {
         return naziv;
@@ -320,4 +314,5 @@ public class Ulica {
     public void setOtpadMjesano(float otpadMjesano) {
         this.otpadMjesano = otpadMjesano;
     }
+
 }
